@@ -1,0 +1,170 @@
+{
+  "uid" : "9acd50d458829a10",
+  "name" : "Try on Sleepbud Screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116917",
+  "historyId" : "55f9c06eb966acc4ff1c4e22806eda74",
+  "time" : {
+    "start" : 1551890247043,
+    "stop" : 1551890284759,
+    "duration" : 37716
+  },
+  "description" : "Try on Sleepbud Screen",
+  "descriptionHtml" : "<p>Try on Sleepbud Screen</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //XCUIElementTypeButton[@name=\"Add Sleepbuds\"]}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 14a82821-7252-4740-9b8a-a47ca01817d0",
+  "statusTrace" : "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //XCUIElementTypeButton[@name=\"Add Sleepbuds\"]}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 14a82821-7252-4740-9b8a-a47ca01817d0\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.elementtoClick(CommomnFunctions.java:117)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.tapToConnect(OnBoarding.java:324)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.connectSleepbuds(OnBoarding.java:385)\n\tat Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116917(OnboardingTest.java:221)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551890222934,
+      "stop" : 1551890247041,
+      "duration" : 24107
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Try on Sleepbud Screen",
+    "status" : "skipped",
+    "statusMessage" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //XCUIElementTypeButton[@name=\"Add Sleepbuds\"]}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 14a82821-7252-4740-9b8a-a47ca01817d0",
+    "statusTrace" : "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //XCUIElementTypeButton[@name=\"Add Sleepbuds\"]}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 14a82821-7252-4740-9b8a-a47ca01817d0\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.elementtoClick(CommomnFunctions.java:117)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.tapToConnect(OnBoarding.java:324)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.connectSleepbuds(OnBoarding.java:385)\n\tat Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116917(OnboardingTest.java:221)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551890247044,
+        "stop" : 1551890252014,
+        "duration" : 4970
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551890252014,
+        "stop" : 1551890252883,
+        "duration" : 869
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551890256494,
+        "stop" : 1551890283833,
+        "duration" : 27339
+      },
+      "status" : "broken",
+      "statusMessage" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //XCUIElementTypeButton[@name=\"Add Sleepbuds\"]}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 14a82821-7252-4740-9b8a-a47ca01817d0",
+      "statusTrace" : "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //XCUIElementTypeButton[@name=\"Add Sleepbuds\"]}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 14a82821-7252-4740-9b8a-a47ca01817d0\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.elementtoClick(CommomnFunctions.java:117)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.tapToConnect(OnBoarding.java:324)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.connectSleepbuds(OnBoarding.java:385)\n\tat Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116917(OnboardingTest.java:221)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "465f235e4e33f187",
+      "name" : "Page Screenshot",
+      "source" : "465f235e4e33f187.png",
+      "type" : "image/png",
+      "size" : 237654
+    }, {
+      "uid" : "29612e1d5d1493e5",
+      "name" : "(0)",
+      "source" : "29612e1d5d1493e5.txt",
+      "type" : "image/png",
+      "size" : 41
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551890285477,
+      "stop" : 1551890286526,
+      "duration" : 1049
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "OB_TC_C116917"
+  }, {
+    "name" : "parentSuite",
+    "value" : " Ios Regression Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OnBoardingTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MBP.bose.com"
+  }, {
+    "name" : "thread",
+    "value" : "47030@Divijs-MBP.bose.com.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Onboarding Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9acd50d458829a10.json",
+  "parameterValues" : [ ]
+}

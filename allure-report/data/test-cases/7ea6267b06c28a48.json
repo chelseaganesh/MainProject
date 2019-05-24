@@ -1,0 +1,241 @@
+{
+  "uid" : "7ea6267b06c28a48",
+  "name" : "your safety screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116931",
+  "historyId" : "815fd0adc49c77be6fadbace14ef3163",
+  "time" : {
+    "start" : 1551715887474,
+    "stop" : 1551716017976,
+    "duration" : 130502
+  },
+  "description" : "your safety screen",
+  "descriptionHtml" : "<p>your safety screen</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551715861210,
+      "stop" : 1551715887303,
+      "duration" : 26093
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551714485374,
+      "stop" : 1551714505399,
+      "duration" : 20025
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "your safety screen",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551715887474,
+        "stop" : 1551715891919,
+        "duration" : 4445
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551715891919,
+        "stop" : 1551715892954,
+        "duration" : 1035
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551715896733,
+        "stop" : 1551715922944,
+        "duration" : 26211
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_startLearning",
+      "time" : {
+        "start" : 1551715922944,
+        "stop" : 1551715930122,
+        "duration" : 7178
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Next",
+      "time" : {
+        "start" : 1551715988103,
+        "stop" : 1551715989297,
+        "duration" : 1194
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Next",
+      "time" : {
+        "start" : 1551716013927,
+        "stop" : 1551716015129,
+        "duration" : 1202
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b2ed78d11b6cb5f4",
+      "name" : "Page Screenshot",
+      "source" : "b2ed78d11b6cb5f4.png",
+      "type" : "image/png",
+      "size" : 265226
+    }, {
+      "uid" : "60e1b5c6e5adcfc4",
+      "name" : "(0)",
+      "source" : "60e1b5c6e5adcfc4.txt",
+      "type" : "image/png",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "kill",
+    "time" : {
+      "start" : 1551716179308,
+      "stop" : 1551716199324,
+      "duration" : 20016
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551716017979,
+      "stop" : 1551716019045,
+      "duration" : 1066
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_OB_C116931"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DrowsyHypnoQA"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "37021@Divijs-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Onboarding Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ea6267b06c28a48.json",
+  "parameterValues" : [ ]
+}

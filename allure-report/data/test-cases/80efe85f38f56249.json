@@ -1,0 +1,61 @@
+{
+  "uid" : "80efe85f38f56249",
+  "name" : "Disable Doze screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116906",
+  "historyId" : "526ad304a59ecbf6e5902da5ba5b460c",
+  "time" : {
+    "start" : 1550255704541,
+    "stop" : 1550255704541,
+    "duration" : 0
+  },
+  "description" : "Disable Doze screen",
+  "descriptionHtml" : "<p>Disable Doze screen</p>\n",
+  "status" : "unknown",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "OB_TC_C116906"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DrowsyHypnoQA"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "10995@Divijs-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80efe85f38f56249.json",
+  "parameterValues" : [ ]
+}

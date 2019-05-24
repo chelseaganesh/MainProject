@@ -1,0 +1,112 @@
+{
+  "uid" : "c26e51d9390b5f2d",
+  "name" : "AB010_C117960",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest.AB010_C117960",
+  "historyId" : "9f2dc235caf88c04f736ae8a51e35192",
+  "time" : {
+    "start" : 1551481137603,
+    "stop" : 1551481137603,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "AB010_C117960"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DrowsyHypnoQA"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "27804@Divijs-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5734dba257bf02dc",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551358303839,
+        "stop" : 1551358303839,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f3fd36239f5a649d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551323350121,
+        "stop" : 1551323350121,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a32309b78e8b1b06",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551320448713,
+        "stop" : 1551320448713,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6b6fbca26e0b59c3",
+      "status" : "failed",
+      "statusDetails" : "expected [com.bose.corporation.bosesleep.screens.search.SearchingActivity ] but found [com.bose.corporation.bosesleep.screens.dashboard.DashBoardV2Activity]",
+      "time" : {
+        "start" : 1551294941632,
+        "stop" : 1551295048149,
+        "duration" : 106517
+      }
+    }, {
+      "uid" : "6b85af0ccdb7bbc3",
+      "status" : "skipped",
+      "statusDetails" : "expected [com.bose.corporation.bosesleep.screens.search.SearchingActivity ] but found [com.bose.corporation.bosesleep.screens.dashboard.DashBoardV2Activity]",
+      "time" : {
+        "start" : 1551294831658,
+        "stop" : 1551294935638,
+        "duration" : 103980
+      }
+    }, {
+      "uid" : "82e277c4b013aa72",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1551283903121,
+        "stop" : 1551283925631,
+        "duration" : 22510
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c26e51d9390b5f2d.json",
+  "parameterValues" : [ ]
+}

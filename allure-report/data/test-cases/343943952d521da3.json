@@ -1,0 +1,165 @@
+{
+  "uid" : "343943952d521da3",
+  "name" : "We Need Some Access Screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116884",
+  "historyId" : "83c2f679a3216cf7fcf5fd9cc3ae9b57",
+  "time" : {
+    "start" : 1551890721774,
+    "stop" : 1551890734407,
+    "duration" : 12633
+  },
+  "description" : "We Need Some Access Screen",
+  "descriptionHtml" : "<p>We Need Some Access Screen</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551890702450,
+      "stop" : 1551890721439,
+      "duration" : 18989
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551890682414,
+      "stop" : 1551890702436,
+      "duration" : 20022
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "We Need Some Access Screen",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551890726529,
+        "stop" : 1551890726938,
+        "duration" : 409
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551890726938,
+        "stop" : 1551890727749,
+        "duration" : 811
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "6cb3d706a528fa26",
+      "name" : "Page Screenshot",
+      "source" : "6cb3d706a528fa26.png",
+      "type" : "image/png",
+      "size" : 173506
+    }, {
+      "uid" : "5c0e38d554764953",
+      "name" : "(0)",
+      "source" : "5c0e38d554764953.txt",
+      "type" : "image/png",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551890739209,
+      "stop" : 1551890739346,
+      "duration" : 137
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "OB_TC_C116884"
+  }, {
+    "name" : "parentSuite",
+    "value" : " Ios Regression Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OnBoardingTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MBP.bose.com"
+  }, {
+    "name" : "thread",
+    "value" : "47481@Divijs-MBP.bose.com.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Onboarding Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "343943952d521da3.json",
+  "parameterValues" : [ ]
+}

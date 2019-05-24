@@ -1,0 +1,64 @@
+{
+  "uid" : "aff0ab72f3211be0",
+  "name" : "Power and charging screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116927",
+  "historyId" : "f9e941847c50a37e75bda3c1e04edaae",
+  "time" : {
+    "start" : 1551669194200,
+    "stop" : 1551669194200,
+    "duration" : 0
+  },
+  "description" : "Power and charging screen",
+  "descriptionHtml" : "<p>Power and charging screen</p>\n",
+  "status" : "unknown",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_OB_C116927"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DrowsyHypnoQA"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "35009@Divijs-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Onboarding Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aff0ab72f3211be0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,737 @@
+{
+  "uid" : "8b840d788c4fccd0",
+  "name" : "Find your size screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116916",
+  "historyId" : "591cf2e4c5ee15e2abbca95eb0f83fd7",
+  "time" : {
+    "start" : 1551891086771,
+    "stop" : 1551891138469,
+    "duration" : 51698
+  },
+  "description" : "Find your Size screen",
+  "descriptionHtml" : "<p>Find your Size screen</p>\n",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551890926822,
+      "stop" : 1551890946840,
+      "duration" : 20018
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551891081789,
+      "stop" : 1551891086769,
+      "duration" : 4980
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Find your Size screen",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551891086771,
+        "stop" : 1551891092451,
+        "duration" : 5680
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551891092452,
+        "stop" : 1551891093182,
+        "duration" : 730
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_GrantLocationAccesss",
+      "time" : {
+        "start" : 1551891095334,
+        "stop" : 1551891095842,
+        "duration" : 508
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Allow",
+      "time" : {
+        "start" : 1551891095842,
+        "stop" : 1551891097099,
+        "duration" : 1257
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_skipForNow",
+      "time" : {
+        "start" : 1551891097099,
+        "stop" : 1551891098261,
+        "duration" : 1162
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551891098261,
+        "stop" : 1551891120105,
+        "duration" : 21844
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_startLearning",
+      "time" : {
+        "start" : 1551891120105,
+        "stop" : 1551891129417,
+        "duration" : 9312
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b48ffecd962e244f",
+      "name" : "Page Screenshot",
+      "source" : "b48ffecd962e244f.png",
+      "type" : "image/png",
+      "size" : 406651
+    }, {
+      "uid" : "8f83a7a39844f788",
+      "name" : "(0)",
+      "source" : "8f83a7a39844f788.txt",
+      "type" : "image/png",
+      "size" : 40
+    }, {
+      "uid" : "e2ff14e25ad56a54",
+      "name" : "Page Screenshot",
+      "source" : "e2ff14e25ad56a54.png",
+      "type" : "image/png",
+      "size" : 406651
+    }, {
+      "uid" : "da172a2f282ff3a8",
+      "name" : "(0)",
+      "source" : "da172a2f282ff3a8.txt",
+      "type" : "image/png",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551891138470,
+      "stop" : 1551891138638,
+      "duration" : 168
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "kill",
+    "time" : {
+      "start" : 1551892209790,
+      "stop" : 1551892229808,
+      "duration" : 20018
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "OB_TC_C116916"
+  }, {
+    "name" : "parentSuite",
+    "value" : " Ios Regression Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OnBoardingTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MBP.bose.com"
+  }, {
+    "name" : "thread",
+    "value" : "47664@Divijs-MBP.bose.com.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Onboarding Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8cf33d5c3bd513f0",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //XCUIElementTypeButton[@name=\"Add Sleepbuds\"]}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: b0669a8f-34e9-4001-bb81-3bc297336398",
+      "time" : {
+        "start" : 1551890183397,
+        "stop" : 1551890221069,
+        "duration" : 37672
+      }
+    }, {
+      "uid" : "5c2b9144452cf0c7",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //XCUIElementTypeButton[@name=\"Add Sleepbuds\"]}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 33578b22-9664-47b5-96ce-0088e4f5c72d",
+      "time" : {
+        "start" : 1551890119870,
+        "stop" : 1551890157577,
+        "duration" : 37707
+      }
+    }, {
+      "uid" : "d0b68752db6fabc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551714731719,
+        "stop" : 1551714776187,
+        "duration" : 44468
+      }
+    }, {
+      "uid" : "56bf31b50b8db46e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551673101992,
+        "stop" : 1551673145865,
+        "duration" : 43873
+      }
+    }, {
+      "uid" : "c716ab970af1a971",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Start Learning}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551672459250,
+        "stop" : 1551672520267,
+        "duration" : 61017
+      }
+    }, {
+      "uid" : "8952816681301c75",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Start Learning}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551671356366,
+        "stop" : 1551671416169,
+        "duration" : 59803
+      }
+    }, {
+      "uid" : "5231c24c4645d0e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551392653946,
+        "stop" : 1551392697512,
+        "duration" : 43566
+      }
+    }, {
+      "uid" : "1905d6224bc856c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551323147808,
+        "stop" : 1551323209304,
+        "duration" : 61496
+      }
+    }, {
+      "uid" : "164ff75448a3db9a",
+      "status" : "skipped",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:28cb:19fd:e0d3:4760%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: cb118df3-f508-4672-a758-1a50b9124692",
+      "time" : {
+        "start" : 1551323074724,
+        "stop" : 1551323137828,
+        "duration" : 63104
+      }
+    }, {
+      "uid" : "2166282ad167bf4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551320279510,
+        "stop" : 1551320331824,
+        "duration" : 52314
+      }
+    }, {
+      "uid" : "93b4c78e1c8e3371",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: f81a8c2d-32bb-4215-8d10-20f5b5127e93",
+      "time" : {
+        "start" : 1551307876935,
+        "stop" : 1551307913884,
+        "duration" : 36949
+      }
+    }, {
+      "uid" : "589fff516a9275ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551306791392,
+        "stop" : 1551307231178,
+        "duration" : 439786
+      }
+    }, {
+      "uid" : "5587e2ac2166695b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551292597982,
+        "stop" : 1551292648992,
+        "duration" : 51010
+      }
+    }, {
+      "uid" : "5c86069297a29f0d",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1551286739652,
+        "stop" : 1551286768732,
+        "duration" : 29080
+      }
+    }, {
+      "uid" : "bf9caf6d1559f150",
+      "status" : "skipped",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1551286702528,
+        "stop" : 1551286730945,
+        "duration" : 28417
+      }
+    }, {
+      "uid" : "3ee4a9ade776db7e",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550703995579,
+        "stop" : 1550704010918,
+        "duration" : 15339
+      }
+    }, {
+      "uid" : "cd980e0faeb9c6f9",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550703968889,
+        "stop" : 1550703983037,
+        "duration" : 14148
+      }
+    }, {
+      "uid" : "56b1a5c74ba85f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550611859813,
+        "stop" : 1550611900399,
+        "duration" : 40586
+      }
+    }, {
+      "uid" : "45e09df162d109f",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550260232730,
+        "stop" : 1550260232732,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9ad2f4e0b1064516",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259925590,
+        "stop" : 1550259925593,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "44a3d4fdd58f2421",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259823848,
+        "stop" : 1550259823851,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "593fed2b9b53832a",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259714415,
+        "stop" : 1550259714418,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "fbd55275571f0ef0",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259656803,
+        "stop" : 1550259656806,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "42e9821047406874",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259548460,
+        "stop" : 1550259548462,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "8bffd5d12ef9edec",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550258636840,
+        "stop" : 1550258636841,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2631b5a9b3fca2b4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550258183989,
+        "stop" : 1550258183991,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d2cb60e566bf42c5",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550256518670,
+        "stop" : 1550256518672,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "275b6e47461d6e5e",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550256276710,
+        "stop" : 1550256276712,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "74c4a57140b9ec75",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550255889400,
+        "stop" : 1550255889402,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a07b4113a32e6054",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550255704441,
+        "stop" : 1550255704443,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "aaa7f06811c26f28",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550252497360,
+        "stop" : 1550252497361,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cdb1fcffb8f9f79b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550252368415,
+        "stop" : 1550252368416,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "21a4d0c0c15556f7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550183030756,
+        "stop" : 1550183030758,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "2ca8e08021b71fa0",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550182861331,
+        "stop" : 1550182861332,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2d1a54de28aa2e99",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550182691616,
+        "stop" : 1550182691618,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6b57951836ebd22e",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550182619794,
+        "stop" : 1550182619795,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d2d975b0e38cf02f",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550182320160,
+        "stop" : 1550182320162,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "c855d1866a5431e1",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550181972366,
+        "stop" : 1550181972367,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9f379a7a9d10123e",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550180074799,
+        "stop" : 1550180074801,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "e8b45fd1ec8fed72",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550179953705,
+        "stop" : 1550179953707,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "545005f0ecae2782",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550179104457,
+        "stop" : 1550179104458,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b8bbb5d2f4abc2bb",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550177924160,
+        "stop" : 1550177924162,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "19bb7af13ff90b28",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550173712878,
+        "stop" : 1550173712880,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ccbda2ad09d3ebab",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550173209155,
+        "stop" : 1550173209157,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "4fb5bbf0c4a01676",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550173023181,
+        "stop" : 1550173023182,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1153c872dd63d82b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550172855598,
+        "stop" : 1550172855600,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "2f0e63ef66731220",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550172144167,
+        "stop" : 1550172144168,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9b26b6228948071",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.id: buttonGrantLocationAccess (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550169916794,
+        "stop" : 1550169954668,
+        "duration" : 37874
+      }
+    }, {
+      "uid" : "dbccf7cd54e2bfef",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.id: buttonGrantLocationAccess (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550169057105,
+        "stop" : 1550169093565,
+        "duration" : 36460
+      }
+    }, {
+      "uid" : "dc629e509acd1208",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.id: buttonGrantLocationAccess",
+      "time" : {
+        "start" : 1550166858570,
+        "stop" : 1550166894052,
+        "duration" : 35482
+      }
+    }, {
+      "uid" : "e8adb564ad7b3da5",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:4c3:cac9:1063:f160%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: b0a1a3f5-5f6a-44bf-95b1-0a5b21598839",
+      "time" : {
+        "start" : 1550166041250,
+        "stop" : 1550166101961,
+        "duration" : 60711
+      }
+    }, {
+      "uid" : "4bb6a352345a6397",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1550165062530,
+        "stop" : 1550165077992,
+        "duration" : 15462
+      }
+    }, {
+      "uid" : "72ee2b70c9c5556a",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.AccessibilityId: testBuds})",
+      "time" : {
+        "start" : 1550095244645,
+        "stop" : 1550095279953,
+        "duration" : 35308
+      }
+    }, {
+      "uid" : "c29f10d35e9d433a",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.id: buttonGrantLocationAccess",
+      "time" : {
+        "start" : 1550093924489,
+        "stop" : 1550093960085,
+        "duration" : 35596
+      }
+    }, {
+      "uid" : "af0bafa6d1bb9c8f",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.className: android.widget.TextView[@index='1']})",
+      "time" : {
+        "start" : 1549418859615,
+        "stop" : 1549418877531,
+        "duration" : 17916
+      }
+    }, {
+      "uid" : "a55d5dd651b7c7f1",
+      "status" : "skipped",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.className: android.widget.TextView[@index='1']})",
+      "time" : {
+        "start" : 1549418831584,
+        "stop" : 1549418850591,
+        "duration" : 19007
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b840d788c4fccd0.json",
+  "parameterValues" : [ ]
+}

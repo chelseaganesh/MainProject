@@ -1,0 +1,218 @@
+{
+  "uid" : "335ad7cd1d32028a",
+  "name" : "Welcome screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116915",
+  "historyId" : "34b516c57bbcca3603416981b7595108",
+  "time" : {
+    "start" : 1551320222176,
+    "stop" : 1551320273460,
+    "duration" : 51284
+  },
+  "description" : "Welcome Screen",
+  "descriptionHtml" : "<p>Welcome Screen</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551320216258,
+      "stop" : 1551320222173,
+      "duration" : 5915
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Welcome Screen",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551320222176,
+        "stop" : 1551320227833,
+        "duration" : 5657
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551320227833,
+        "stop" : 1551320228642,
+        "duration" : 809
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_GrantLocationAccesss",
+      "time" : {
+        "start" : 1551320230761,
+        "stop" : 1551320231340,
+        "duration" : 579
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Allow",
+      "time" : {
+        "start" : 1551320231340,
+        "stop" : 1551320232647,
+        "duration" : 1307
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_skipForNow",
+      "time" : {
+        "start" : 1551320232647,
+        "stop" : 1551320233785,
+        "duration" : 1138
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551320233785,
+        "stop" : 1551320254534,
+        "duration" : 20749
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "7825082185eb105b",
+      "name" : "Page Screenshot",
+      "source" : "7825082185eb105b.png",
+      "type" : "image/png",
+      "size" : 819951
+    }, {
+      "uid" : "da6fbea20c161031",
+      "name" : "(0)",
+      "source" : "da6fbea20c161031.txt",
+      "type" : "image/png",
+      "size" : 40
+    }, {
+      "uid" : "7f18d8aab2c1833c",
+      "name" : "Page Screenshot",
+      "source" : "7f18d8aab2c1833c.png",
+      "type" : "image/png",
+      "size" : 819951
+    }, {
+      "uid" : "5fbe2ca05b90d33d",
+      "name" : "(0)",
+      "source" : "5fbe2ca05b90d33d.txt",
+      "type" : "image/png",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551320273463,
+      "stop" : 1551320273615,
+      "duration" : 152
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "OB_TC_C116915"
+  }, {
+    "name" : "parentSuite",
+    "value" : " Drowsy Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Onboarding test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "18695@Divijs-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "335ad7cd1d32028a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Android Regression Suite" verbose="1">
+<parameter name="" value=""/>
+    <listeners>
+        <listener class-name="Com.Bose.Corporation.Utilities.Listener.TestListener" />
+        <listener class-name="Com.Bose.Corporation.Utilities.Listener.AnnotationTransformer" />
+    </listeners>
+
+    <test  name= "OnboardingTest" parallel="false" preserve-order="true">
+        <classes>
+            <class name="Com.Bose.Corporation.TestSuite.Onboarding.OnboardingTest"></class>
+        </classes>
+    </test>
+
+    <test name="HomePageTest" parallel="false" preserve-order="true">
+        <classes>
+            <class name="Com.Bose.Corporation.TestSuite.Home.HomePageTest"></class>
+        </classes>
+    </test>
+
+    <test name="AboutPageTest" parallel="false" preserve-order="true">
+        <classes>
+            <class name="Com.Bose.Corporation.TestSuite.About.AboutPageTest"></class>
+        </classes>
+    </test>
+
+    <test name="SettingsPageTest" parallel="false" preserve-order="true">
+        <classes>
+            <class name="Com.Bose.Corporation.TestSuite.Settings.SettingsPageTest"></class>
+        </classes>
+    </test>
+</suite>

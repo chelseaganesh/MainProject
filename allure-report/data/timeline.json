@@ -1,0 +1,789 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Divijs-MBP.bose.com",
+    "children" : [ {
+      "name" : "47664@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "Welcome screen",
+        "uid" : "3a577585faa11717",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891015935,
+          "stop" : 1551891081644,
+          "duration" : 65709
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Power and charging screen",
+        "uid" : "ca856705fb679e49",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891676783,
+          "stop" : 1551891753283,
+          "duration" : 76500
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "charging your case screen",
+        "uid" : "8d78051eed95da6a",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891758561,
+          "stop" : 1551891840016,
+          "duration" : 81455
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "We Need Some Access Screen",
+        "uid" : "355d1129a03f8fc2",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551890971814,
+          "stop" : 1551890987021,
+          "duration" : 15207
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Perfect fit screen",
+        "uid" : "bec98a0a174245c0",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891323360,
+          "stop" : 1551891387814,
+          "duration" : 64454
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Too Large screen",
+        "uid" : "6eec14e8be285709",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891259918,
+          "stop" : 1551891318080,
+          "duration" : 58162
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Find your size screen",
+        "uid" : "8b840d788c4fccd0",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891086771,
+          "stop" : 1551891138469,
+          "duration" : 51698
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Disable Doze screen",
+        "uid" : "f2cf9d4b7a414e7f",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551890992309,
+          "stop" : 1551891010673,
+          "duration" : 18364
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "All done Screen",
+        "uid" : "dd8dbe7de3f7fdc0",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551892121132,
+          "stop" : 1551892209582,
+          "duration" : 88450
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "charging your sleepbuds screen",
+        "uid" : "a83353a2712b828",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891845329,
+          "stop" : 1551891930026,
+          "duration" : 84697
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "your safety screen",
+        "uid" : "51d95c45cd8ff6d6",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891935226,
+          "stop" : 1551892021369,
+          "duration" : 86143
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Too small screen",
+        "uid" : "cc9a6c481be85027",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891198720,
+          "stop" : 1551891254694,
+          "duration" : 55974
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "let's check a few things screen",
+        "uid" : "dc3f565291a86fb4",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "failed",
+        "time" : {
+          "start" : 1551891469752,
+          "stop" : 1551891538857,
+          "duration" : 69105
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Try on Sleepbud Screen",
+        "uid" : "af77654b9db71b1f",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891143985,
+          "stop" : 1551891193459,
+          "duration" : 49474
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "great job screen",
+        "uid" : "3e144b613a533f91",
+        "parentUid" : "95954b3eddc099bb847f3c47939bbd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551891595830,
+          "stop" : 1551891671414,
+          "duration" : 75584
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95954b3eddc099bb847f3c47939bbd43"
+    }, {
+      "name" : "23669@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "let's check a few things screen",
+        "uid" : "9ab2852068acb913",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970571,
+          "stop" : 1551390970571,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "Welcome screen",
+        "uid" : "262c57cc14ab7fe7",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970580,
+          "stop" : 1551390970580,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "Too Large screen",
+        "uid" : "d718933ac5d69982",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970564,
+          "stop" : 1551390970564,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "user onboarding and connecting buds.",
+        "uid" : "f11cc099364df780",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551391212374,
+          "stop" : 1551391362669,
+          "duration" : 150295
+        },
+        "flaky" : false,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "Try on Sleepbud Screen",
+        "uid" : "cebed49a185d0ff1",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970576,
+          "stop" : 1551390970576,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "charging your sleepbuds screen",
+        "uid" : "c231746b045de942",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970561,
+          "stop" : 1551390970561,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "charging your case screen",
+        "uid" : "4bec440f1ce6cbbe",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970439,
+          "stop" : 1551390970441,
+          "duration" : 2
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "Perfect fit screen",
+        "uid" : "31483bab9bfb9f42",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970566,
+          "stop" : 1551390970566,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "great job screen",
+        "uid" : "b7f1d71bda3658b5",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970579,
+          "stop" : 1551390970579,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "Power and charging screen",
+        "uid" : "e9c3cf009a646a3e",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970572,
+          "stop" : 1551390970572,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "your safety screen",
+        "uid" : "b95a97549643edbe",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970568,
+          "stop" : 1551390970568,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      }, {
+        "name" : "Disable Doze screen",
+        "uid" : "776f8e4e8a8b1274",
+        "parentUid" : "9263ee807d1b05358be03208afea57e1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551390970574,
+          "stop" : 1551390970574,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "1195" ]
+      } ],
+      "uid" : "9263ee807d1b05358be03208afea57e1"
+    }, {
+      "name" : "44250@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "user onboarding and connecting buds.",
+        "uid" : "93b065a7ed3f54f9",
+        "parentUid" : "2eb6677cdd600bf8b6055e33005eadcc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551814620461,
+          "stop" : 1551814792866,
+          "duration" : 172405
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2eb6677cdd600bf8b6055e33005eadcc"
+    }, {
+      "name" : "11214@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "setup",
+        "uid" : "3bc314375420085e",
+        "parentUid" : "ac403bfb1fe88631e823dc47c116f98b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551283611938,
+          "stop" : 1551283611939,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ac403bfb1fe88631e823dc47c116f98b"
+    }, {
+      "name" : "14293@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "2eafe290243e538b",
+        "parentUid" : "26a8b6656fba8994a7a353064fe9969b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551295347945,
+          "stop" : 1551295347945,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "26a8b6656fba8994a7a353064fe9969b"
+    }, {
+      "name" : "45684@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "We Need Some Access Screen",
+        "uid" : "e614bbc29e92c6a9",
+        "parentUid" : "b06fcede33b5cd216bf01a52aa63a191",
+        "status" : "broken",
+        "time" : {
+          "start" : 1549399010647,
+          "stop" : 1549399019856,
+          "duration" : 9209
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b06fcede33b5cd216bf01a52aa63a191"
+    }, {
+      "name" : "44560@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "listen",
+        "uid" : "412727836c7e1b6b",
+        "parentUid" : "764562059a1d2d41a8e86b6bf158e131",
+        "status" : "broken",
+        "time" : {
+          "start" : 1549387529941,
+          "stop" : 1549387529943,
+          "duration" : 2
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "764562059a1d2d41a8e86b6bf158e131"
+    }, {
+      "name" : "49030@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "e0b698b1a2fd19b7",
+        "parentUid" : "195ee805018633a4901437323fec7415",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551896694514,
+          "stop" : 1551896694517,
+          "duration" : 3
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "195ee805018633a4901437323fec7415"
+    }, {
+      "name" : "46841@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "Disable Doze screen",
+        "uid" : "3c9f420b09eae1da",
+        "parentUid" : "7d23535a2d3da6b9f8132ccfcc479f17",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549403012548,
+          "stop" : 1549403025533,
+          "duration" : 12985
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d23535a2d3da6b9f8132ccfcc479f17"
+    }, {
+      "name" : "47153@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "Disable Doze screen",
+        "uid" : "7f4d67c5e99cd6c5",
+        "parentUid" : "ce4e8870fa1570a56c7e79ebd5d86d75",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549404222477,
+          "stop" : 1549404232387,
+          "duration" : 9910
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "We Need Some Access Screen",
+        "uid" : "38f5c15764a43df3",
+        "parentUid" : "ce4e8870fa1570a56c7e79ebd5d86d75",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549404187048,
+          "stop" : 1549404194693,
+          "duration" : 7645
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ce4e8870fa1570a56c7e79ebd5d86d75"
+    }, {
+      "name" : "45080@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "user onboarding and connecting buds.",
+        "uid" : "34e7df478c9ec75c",
+        "parentUid" : "262b1876efd3e22647cfd165f04b6a96",
+        "status" : "broken",
+        "time" : {
+          "start" : 1549390350013,
+          "stop" : 1549390388185,
+          "duration" : 38172
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "262b1876efd3e22647cfd165f04b6a96"
+    }, {
+      "name" : "43805@Divijs-MBP.bose.com.main(1)",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "e394128a5cfc45f5",
+        "parentUid" : "df89ab8ef3a84e36ec567ef3e3fbe925",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551812961289,
+          "stop" : 1551812961294,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df89ab8ef3a84e36ec567ef3e3fbe925"
+    } ],
+    "uid" : "185116b1be0f6016baed770bd9179277"
+  }, {
+    "name" : "Divijs-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "3094@Divijs-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "getRunIDs",
+        "uid" : "2652bd609bb04221",
+        "parentUid" : "d7c154cf1395edefa39dc91823c2460f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1550970030651,
+          "stop" : 1550970033921,
+          "duration" : 3270
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d7c154cf1395edefa39dc91823c2460f"
+    }, {
+      "name" : "38546@Divijs-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "AB002_C117941",
+        "uid" : "eca8c45e09acbf30",
+        "parentUid" : "e1fff1ec877d6bd1198d051c1026e66a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551729023347,
+          "stop" : 1551729186241,
+          "duration" : 162894
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AB001_C117939",
+        "uid" : "bd743d4367d47cf4",
+        "parentUid" : "e1fff1ec877d6bd1198d051c1026e66a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551728805496,
+          "stop" : 1551728996606,
+          "duration" : 191110
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AB004_C117943",
+        "uid" : "e933b2f8889a65a0",
+        "parentUid" : "e1fff1ec877d6bd1198d051c1026e66a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551729400468,
+          "stop" : 1551729574602,
+          "duration" : 174134
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AB003_C117942",
+        "uid" : "f598c766a2f17036",
+        "parentUid" : "e1fff1ec877d6bd1198d051c1026e66a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551729212562,
+          "stop" : 1551729372815,
+          "duration" : 160253
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AB006_C117953",
+        "uid" : "8ab765d003abed90",
+        "parentUid" : "e1fff1ec877d6bd1198d051c1026e66a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551729803850,
+          "stop" : 1551729852061,
+          "duration" : 48211
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AB005_C117945",
+        "uid" : "d0a4dc92584333dd",
+        "parentUid" : "e1fff1ec877d6bd1198d051c1026e66a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551729602200,
+          "stop" : 1551729778529,
+          "duration" : 176329
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e1fff1ec877d6bd1198d051c1026e66a"
+    }, {
+      "name" : "28069@Divijs-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "Navigating to settings page and validation",
+        "uid" : "8905cc925bdcc77c",
+        "parentUid" : "e816c0d5f2a64b0365fcfa21dca5e901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551482296229,
+          "stop" : 1551482466239,
+          "duration" : 170010
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Battery Page",
+        "uid" : "cef2ebab0ef0d9ef",
+        "parentUid" : "e816c0d5f2a64b0365fcfa21dca5e901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551482707088,
+          "stop" : 1551482859456,
+          "duration" : 152368
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Nickname it page",
+        "uid" : "6dedf7ada3a5a345",
+        "parentUid" : "e816c0d5f2a64b0365fcfa21dca5e901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551482493506,
+          "stop" : 1551482660417,
+          "duration" : 166911
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Product Info",
+        "uid" : "48de73f3b34f46c8",
+        "parentUid" : "e816c0d5f2a64b0365fcfa21dca5e901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551482885543,
+          "stop" : 1551483037698,
+          "duration" : 152155
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Sleep Timer",
+        "uid" : "e68f915e98e02aba",
+        "parentUid" : "e816c0d5f2a64b0365fcfa21dca5e901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551483063831,
+          "stop" : 1551483216065,
+          "duration" : 152234
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e816c0d5f2a64b0365fcfa21dca5e901"
+    }, {
+      "name" : "27804@Divijs-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "AB011_C117964",
+        "uid" : "107a267f0dec4f3c",
+        "parentUid" : "bdaab717e9db1f57b6dfdec77a8c508d",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551481137612,
+          "stop" : 1551481137612,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AB009_C117958",
+        "uid" : "fb1459443b2d3669",
+        "parentUid" : "bdaab717e9db1f57b6dfdec77a8c508d",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551481137619,
+          "stop" : 1551481137619,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AB010_C117959",
+        "uid" : "de0d977310df4594",
+        "parentUid" : "bdaab717e9db1f57b6dfdec77a8c508d",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551481137607,
+          "stop" : 1551481137607,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AB010_C117960",
+        "uid" : "c26e51d9390b5f2d",
+        "parentUid" : "bdaab717e9db1f57b6dfdec77a8c508d",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1551481137603,
+          "stop" : 1551481137603,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bdaab717e9db1f57b6dfdec77a8c508d"
+    }, {
+      "name" : "9938@Divijs-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "2dec200a562c5bf6",
+        "parentUid" : "8337952b306bc696a63df30187f9909e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551271101410,
+          "stop" : 1551271101410,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8337952b306bc696a63df30187f9909e"
+    }, {
+      "name" : "41272@Divijs-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "AB008_C117957",
+        "uid" : "f424126e673787a5",
+        "parentUid" : "56daa507da01c0b066c88ada52f37114",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551740886670,
+          "stop" : 1551741052102,
+          "duration" : 165432
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "56daa507da01c0b066c88ada52f37114"
+    }, {
+      "name" : "37021@Divijs-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "let's check a few things screen",
+        "uid" : "807bf8241ede1b19",
+        "parentUid" : "04f481f558b302d1e36a72282f865246",
+        "status" : "failed",
+        "time" : {
+          "start" : 1551715194359,
+          "stop" : 1551715290987,
+          "duration" : 96628
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04f481f558b302d1e36a72282f865246"
+    }, {
+      "name" : "41185@Divijs-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "AB007_C117954",
+        "uid" : "50b10cbab51e1421",
+        "parentUid" : "aa089c8e46f6921285a2dbd4eb29654b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551740395403,
+          "stop" : 1551740505075,
+          "duration" : 109672
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aa089c8e46f6921285a2dbd4eb29654b"
+    } ],
+    "uid" : "0e4ca3ba20644c93c280c85895ebe02f"
+  } ]
+}

@@ -1,0 +1,59 @@
+{
+  "uid" : "cc7e0cddef599383",
+  "name" : "AB011_C117964",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest.AB011_C117964",
+  "historyId" : "6d48bb301702a7c93be0d6eda5ddd139",
+  "time" : {
+    "start" : 1551358303820,
+    "stop" : 1551358303820,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "AB011_C117964"
+  }, {
+    "name" : "parentSuite",
+    "value" : " Drowsy Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Onboarding test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "20612@Divijs-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc7e0cddef599383.json",
+  "parameterValues" : [ ]
+}

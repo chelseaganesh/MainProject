@@ -1,0 +1,256 @@
+{
+  "uid" : "104740c3ad065177",
+  "name" : "charging your sleepbuds screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116930",
+  "historyId" : "382ecd47b534b39fcbbad4a888b85db4",
+  "time" : {
+    "start" : 1551293338904,
+    "stop" : 1551293377407,
+    "duration" : 38503
+  },
+  "description" : "charging your sleepbuds screen",
+  "descriptionHtml" : "<p>charging your sleepbuds screen</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 0ccb6bca-9559-4bf5-8b39-eb1b024e2dfd",
+  "statusTrace" : "org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 0ccb6bca-9559-4bf5-8b39-eb1b024e2dfd\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\n\tat io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)\n\tat io.appium.java_client.PerformsTouchActions.performTouchAction(PerformsTouchActions.java:41)\n\tat io.appium.java_client.TouchAction.perform(TouchAction.java:187)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.swipeHorizontal(CommomnFunctions.java:151)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.swipeRightToPage(CommomnFunctions.java:105)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.tapToConnect(OnBoarding.java:278)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.connectSleepbuds(OnBoarding.java:333)\n\tat Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116930(OnboardingTest.java:475)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551293333306,
+      "stop" : 1551293338902,
+      "duration" : 5596
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551292443842,
+      "stop" : 1551292463864,
+      "duration" : 20022
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551292463865,
+      "stop" : 1551292483869,
+      "duration" : 20004
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "charging your sleepbuds screen",
+    "status" : "skipped",
+    "statusMessage" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 0ccb6bca-9559-4bf5-8b39-eb1b024e2dfd",
+    "statusTrace" : "org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 0ccb6bca-9559-4bf5-8b39-eb1b024e2dfd\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\n\tat io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)\n\tat io.appium.java_client.PerformsTouchActions.performTouchAction(PerformsTouchActions.java:41)\n\tat io.appium.java_client.TouchAction.perform(TouchAction.java:187)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.swipeHorizontal(CommomnFunctions.java:151)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.swipeRightToPage(CommomnFunctions.java:105)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.tapToConnect(OnBoarding.java:278)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.connectSleepbuds(OnBoarding.java:333)\n\tat Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116930(OnboardingTest.java:475)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551293338904,
+        "stop" : 1551293344749,
+        "duration" : 5845
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551293344749,
+        "stop" : 1551293345506,
+        "duration" : 757
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_GrantLocationAccesss",
+      "time" : {
+        "start" : 1551293347633,
+        "stop" : 1551293348204,
+        "duration" : 571
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Allow",
+      "time" : {
+        "start" : 1551293348204,
+        "stop" : 1551293349496,
+        "duration" : 1292
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_skipForNow",
+      "time" : {
+        "start" : 1551293349496,
+        "stop" : 1551293350782,
+        "duration" : 1286
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551293350782,
+        "stop" : 1551293370752,
+        "duration" : 19970
+      },
+      "status" : "broken",
+      "statusMessage" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 0ccb6bca-9559-4bf5-8b39-eb1b024e2dfd",
+      "statusTrace" : "org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 0ccb6bca-9559-4bf5-8b39-eb1b024e2dfd\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\n\tat io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)\n\tat io.appium.java_client.PerformsTouchActions.performTouchAction(PerformsTouchActions.java:41)\n\tat io.appium.java_client.TouchAction.perform(TouchAction.java:187)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.swipeHorizontal(CommomnFunctions.java:151)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.swipeRightToPage(CommomnFunctions.java:105)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.tapToConnect(OnBoarding.java:278)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.connectSleepbuds(OnBoarding.java:333)\n\tat Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116930(OnboardingTest.java:475)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "da1878e44929a35e",
+      "name" : "Page Screenshot",
+      "source" : "da1878e44929a35e.png",
+      "type" : "image/png",
+      "size" : 191892
+    }, {
+      "uid" : "412a2ba4572c46fb",
+      "name" : "(0)",
+      "source" : "412a2ba4572c46fb.txt",
+      "type" : "image/png",
+      "size" : 41
+    }, {
+      "uid" : "33e7177f44f74b35",
+      "name" : "Page Screenshot",
+      "source" : "33e7177f44f74b35.png",
+      "type" : "image/png",
+      "size" : 192216
+    }, {
+      "uid" : "a946742d16edebfc",
+      "name" : "(0)",
+      "source" : "a946742d16edebfc.txt",
+      "type" : "image/png",
+      "size" : 41
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551293377408,
+      "stop" : 1551293377556,
+      "duration" : 148
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_OB_C116930"
+  }, {
+    "name" : "parentSuite",
+    "value" : " Drowsy Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Onboarding test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MBP.bose.com"
+  }, {
+    "name" : "thread",
+    "value" : "14293@Divijs-MBP.bose.com.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "104740c3ad065177.json",
+  "parameterValues" : [ ]
+}

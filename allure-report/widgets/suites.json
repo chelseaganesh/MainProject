@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "e7a425048a948e660d2719149fbfc9ee",
+    "name" : " Drowsy Test Suite",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e",
+    "name" : "Default Suite",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 4,
+      "total" : 23
+    }
+  }, {
+    "uid" : "90d4c24cfe655ee377ccc6fbb67ae4a0",
+    "name" : " Ios Regression Suite",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 11,
+      "total" : 27
+    }
+  }, {
+    "uid" : "942f7521c926a99e46c0ca291e0cc421",
+    "name" : "Android Regression Suite",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

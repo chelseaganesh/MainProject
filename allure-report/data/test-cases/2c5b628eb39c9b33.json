@@ -1,0 +1,61 @@
+{
+  "uid" : "2c5b628eb39c9b33",
+  "name" : "charging your sleepbuds screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116930",
+  "historyId" : "382ecd47b534b39fcbbad4a888b85db4",
+  "time" : {
+    "start" : 1551392472791,
+    "stop" : 1551392472791,
+    "duration" : 0
+  },
+  "description" : "charging your sleepbuds screen",
+  "descriptionHtml" : "<p>charging your sleepbuds screen</p>\n",
+  "status" : "unknown",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_OB_C116930"
+  }, {
+    "name" : "parentSuite",
+    "value" : " Ios Regression Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OnBoarding"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MBP.bose.com"
+  }, {
+    "name" : "thread",
+    "value" : "23849@Divijs-MBP.bose.com.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c5b628eb39c9b33.json",
+  "parameterValues" : [ ]
+}

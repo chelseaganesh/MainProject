@@ -1,0 +1,811 @@
+{
+  "uid" : "3a577585faa11717",
+  "name" : "Welcome screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116915",
+  "historyId" : "34b516c57bbcca3603416981b7595108",
+  "time" : {
+    "start" : 1551891015935,
+    "stop" : 1551891081644,
+    "duration" : 65709
+  },
+  "description" : "Welcome Screen",
+  "descriptionHtml" : "<p>Welcome Screen</p>\n",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551891010837,
+      "stop" : 1551891015932,
+      "duration" : 5095
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551890926822,
+      "stop" : 1551890946840,
+      "duration" : 20018
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Welcome Screen",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551891015935,
+        "stop" : 1551891021776,
+        "duration" : 5841
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551891021776,
+        "stop" : 1551891022462,
+        "duration" : 686
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_GrantLocationAccesss",
+      "time" : {
+        "start" : 1551891024610,
+        "stop" : 1551891025200,
+        "duration" : 590
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Allow",
+      "time" : {
+        "start" : 1551891025200,
+        "stop" : 1551891026707,
+        "duration" : 1507
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_skipForNow",
+      "time" : {
+        "start" : 1551891026707,
+        "stop" : 1551891027633,
+        "duration" : 926
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551891027633,
+        "stop" : 1551891060167,
+        "duration" : 32534
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "29d309af0965d601",
+      "name" : "Page Screenshot",
+      "source" : "29d309af0965d601.png",
+      "type" : "image/png",
+      "size" : 1467657
+    }, {
+      "uid" : "d505e48ac5e0a8b1",
+      "name" : "(0)",
+      "source" : "d505e48ac5e0a8b1.txt",
+      "type" : "image/png",
+      "size" : 40
+    }, {
+      "uid" : "a1a15107a17891ca",
+      "name" : "Page Screenshot",
+      "source" : "a1a15107a17891ca.png",
+      "type" : "image/png",
+      "size" : 1467657
+    }, {
+      "uid" : "9917d585e5ef4697",
+      "name" : "(0)",
+      "source" : "9917d585e5ef4697.txt",
+      "type" : "image/png",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551891081648,
+      "stop" : 1551891081788,
+      "duration" : 140
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "kill",
+    "time" : {
+      "start" : 1551892209790,
+      "stop" : 1551892229808,
+      "duration" : 20018
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "OB_TC_C116915"
+  }, {
+    "name" : "parentSuite",
+    "value" : " Ios Regression Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OnBoardingTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MBP.bose.com"
+  }, {
+    "name" : "thread",
+    "value" : "47664@Divijs-MBP.bose.com.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Onboarding Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c8dd0b9f075cb34c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551890035602,
+        "stop" : 1551890093782,
+        "duration" : 58180
+      }
+    }, {
+      "uid" : "6f72ee450a2d6f59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551714661523,
+        "stop" : 1551714705684,
+        "duration" : 44161
+      }
+    }, {
+      "uid" : "a72acb5c861faf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551669855903,
+        "stop" : 1551669892449,
+        "duration" : 36546
+      }
+    }, {
+      "uid" : "196e0c980c2db128",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.AccessibilityId: Welcome!}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551669405115,
+        "stop" : 1551669464678,
+        "duration" : 59563
+      }
+    }, {
+      "uid" : "886f1976b3042048",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.AccessibilityId: Welcome!}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551669240667,
+        "stop" : 1551669300772,
+        "duration" : 60105
+      }
+    }, {
+      "uid" : "c51a8ecf80d6e8ec",
+      "status" : "failed",
+      "statusDetails" : "expected [The Bose® Sleep app lets you control your masking sounds, alarms, and more.\n\nBefore we get started, let’s take a few minutes to take a tour of your new sleepbuds.] but found [Welcome!]",
+      "time" : {
+        "start" : 1551668784448,
+        "stop" : 1551668821670,
+        "duration" : 37222
+      }
+    }, {
+      "uid" : "29b75ee1ff6143d8",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeStaticText[@name=\"The Bose® Sleep app lets you control your masking sounds, alarms, and more. Before we get started, let’s take a few minutes to take a tour of your new sleepbuds.\"]})",
+      "time" : {
+        "start" : 1551666063725,
+        "stop" : 1551666130571,
+        "duration" : 66846
+      }
+    }, {
+      "uid" : "7c2a9fc20e2bbaee",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551392472813,
+        "stop" : 1551392472813,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3bfe41dea69a899b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551323004231,
+        "stop" : 1551323064574,
+        "duration" : 60343
+      }
+    }, {
+      "uid" : "335ad7cd1d32028a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551320222176,
+        "stop" : 1551320273460,
+        "duration" : 51284
+      }
+    }, {
+      "uid" : "71de66e537833e15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551292544730,
+        "stop" : 1551292592069,
+        "duration" : 47339
+      }
+    }, {
+      "uid" : "5793f72e232a1613",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1551286664120,
+        "stop" : 1551286693577,
+        "duration" : 29457
+      }
+    }, {
+      "uid" : "3728ed39d28eeb82",
+      "status" : "skipped",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1551286627552,
+        "stop" : 1551286655475,
+        "duration" : 27923
+      }
+    }, {
+      "uid" : "61f46b19683ccd14",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: java.lang.SecurityException: Injecting to another application requires INJECT_EVENTS permission\n\tat android.os.Parcel.createException(Parcel.java:1942)\n\tat android.os.Parcel.readException(Parcel.java:1910)\n\tat android.os.Parcel.readException(Parcel.java:1860)\n\tat android.app.IUiAutomationConnection$Stub$Proxy.injectInputEvent(IUiAutomationConnection.java:292)\n\tat android.app.UiAutomation.injectInputEvent(UiAutomation.java:516)\n\tat android.support.test.uiautomator.UiAutomatorBridge.injectInputEvent(UiAutomatorBridge.java:86)\n\tat android.support.test.uiautomator.InteractionController.injectEventSync(InteractionController.java:688)\n\tat android.support.test.uiautomator.InteractionController.touchMove(InteractionController.java:368)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:489)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:458)\n\tat android.support.test.uiautomator.UiDevice.swipe(UiDevice.java:583)\n\tat io.appium.uiautomator2.handler.Swipe$1.run(Swipe.java:55)\n\tat android.app.UiAutomation.executeAndWaitForEvent(UiAutomation.java:595)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:39)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:87)\n\tat io.appium.uiautomator2.handler.Swipe.safeHandle(Swipe.java:52)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:250)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:241)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)\n\tat io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)\n\tat io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)\n\tat java.lang.Thread.run(Thread.java:764)\n\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: cb9d8a42-a858-464c-aca9-ffc54affc997",
+      "time" : {
+        "start" : 1551126040345,
+        "stop" : 1551126096713,
+        "duration" : 56368
+      }
+    }, {
+      "uid" : "ed9f4ef0df3e270f",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550703941488,
+        "stop" : 1550703957036,
+        "duration" : 15548
+      }
+    }, {
+      "uid" : "65dd79118d05622f",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550703914463,
+        "stop" : 1550703929320,
+        "duration" : 14857
+      }
+    }, {
+      "uid" : "b8322484c3bc09ee",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.AccessibilityId: The Bose® Sleep app lets you control your masking sounds, alarms, and more.\n\nBefore we get started, let’s take a few minutes to take a tour of your new sleepbuds.})",
+      "time" : {
+        "start" : 1550630380568,
+        "stop" : 1550630445365,
+        "duration" : 64797
+      }
+    }, {
+      "uid" : "e56ec6277e17264f",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.AccessibilityId: The Bose® Sleep app lets you control your masking sounds, alarms, and more.\\n\\nBefore we get started, let’s take a few minutes to take a tour of your new sleepbuds.})",
+      "time" : {
+        "start" : 1550629218663,
+        "stop" : 1550629300290,
+        "duration" : 81627
+      }
+    }, {
+      "uid" : "4f979f1b7ed1cb79",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.AccessibilityId: The Bose® Sleep app lets you control your masking sounds, alarms, and more.\\n\\nBefore we get started, let’s take a few minutes to take a tour of your new sleepbuds.})",
+      "time" : {
+        "start" : 1550628826090,
+        "stop" : 1550628890062,
+        "duration" : 63972
+      }
+    }, {
+      "uid" : "63064c627e954860",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeStaticText[@name=\"The Bose® Sleep app lets you control your masking sounds, alarms, and more. Before we get started, let’s take a few minutes to take a tour of your new sleepbuds.\"]})",
+      "time" : {
+        "start" : 1550625665395,
+        "stop" : 1550625728486,
+        "duration" : 63091
+      }
+    }, {
+      "uid" : "ea2635bb57efc66c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550625450818,
+        "stop" : 1550625493247,
+        "duration" : 42429
+      }
+    }, {
+      "uid" : "9a453e5d23b97fe1",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.id: buttonGrantLocationAccess (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550624738423,
+        "stop" : 1550624776226,
+        "duration" : 37803
+      }
+    }, {
+      "uid" : "651d6d75e35a7056",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1550624618216,
+        "stop" : 1550624646918,
+        "duration" : 28702
+      }
+    }, {
+      "uid" : "30184c9951c70a2e",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1550624490813,
+        "stop" : 1550624511813,
+        "duration" : 21000
+      }
+    }, {
+      "uid" : "2859447df77605c1",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1550624366799,
+        "stop" : 1550624387258,
+        "duration" : 20459
+      }
+    }, {
+      "uid" : "e191016ee230d333",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeStaticText[@name=\"The Bose® Sleep app lets you control your masking sounds, alarms, and more. Before we get started, let’s take a few minutes to take a tour of your new sleepbuds.\"]})",
+      "time" : {
+        "start" : 1550617806063,
+        "stop" : 1550617871293,
+        "duration" : 65230
+      }
+    }, {
+      "uid" : "6314e7f7c18b6da4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550260241587,
+        "stop" : 1550260270448,
+        "duration" : 28861
+      }
+    }, {
+      "uid" : "be1cb33696ff1a2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550259934059,
+        "stop" : 1550259963794,
+        "duration" : 29735
+      }
+    }, {
+      "uid" : "275faf988d824d37",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:66ed%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 36a1723d-42fc-4fbf-8cfb-17d10a09c5f4",
+      "time" : {
+        "start" : 1550259832880,
+        "stop" : 1550259859363,
+        "duration" : 26483
+      }
+    }, {
+      "uid" : "ef114570b19f1967",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550259724050,
+        "stop" : 1550259746043,
+        "duration" : 21993
+      }
+    }, {
+      "uid" : "e537081a0800a412",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeStaticText[@name=\"The Bose® Sleep app lets you control your masking sounds, alarms, and more. Before we get started, let’s take a few minutes to take a tour of your new sleepbuds.\"]})",
+      "time" : {
+        "start" : 1550258663701,
+        "stop" : 1550258717622,
+        "duration" : 53921
+      }
+    }, {
+      "uid" : "7fb75412ec187e9d",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeStaticText[@name=\"The Bose® Sleep app lets you control your masking sounds, alarms, and more. Before we get started, let’s take a few minutes to take a tour of your new sleepbuds.\"]})",
+      "time" : {
+        "start" : 1550258211349,
+        "stop" : 1550258259898,
+        "duration" : 48549
+      }
+    }, {
+      "uid" : "384603847e952196",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.AccessibilityId: The Bose® Sleep app lets you control your masking sounds, alarms, and more. Before we get started, let’s take a few minutes to take a tour of your new sleepbuds.})",
+      "time" : {
+        "start" : 1550256547028,
+        "stop" : 1550256609820,
+        "duration" : 62792
+      }
+    }, {
+      "uid" : "d284479f99d4a514",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.AccessibilityId: testBudss}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550256304862,
+        "stop" : 1550256342045,
+        "duration" : 37183
+      }
+    }, {
+      "uid" : "6d857d46932acba8",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: /AppiumAUT/XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550255916285,
+        "stop" : 1550255954671,
+        "duration" : 38386
+      }
+    }, {
+      "uid" : "d3f28e4a63018553",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: /AppiumAUT/XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550255733251,
+        "stop" : 1550255777830,
+        "duration" : 44579
+      }
+    }, {
+      "uid" : "c83ff3879585e800",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: /AppiumAUT/XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550252525233,
+        "stop" : 1550252560899,
+        "duration" : 35666
+      }
+    }, {
+      "uid" : "bcf79a2ccb22cb2b",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.id: buttonGrantLocationAccess (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550252398184,
+        "stop" : 1550252434300,
+        "duration" : 36116
+      }
+    }, {
+      "uid" : "9f75ec6170513e18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550183037416,
+        "stop" : 1550183065312,
+        "duration" : 27896
+      }
+    }, {
+      "uid" : "186b9b0b969e0736",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:4c3:cac9:1063:f160%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59d92072-327b-41d6-b4e1-df894d7f460d",
+      "time" : {
+        "start" : 1550182867908,
+        "stop" : 1550182893321,
+        "duration" : 25413
+      }
+    }, {
+      "uid" : "b2530011f2335ef5",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:4c3:cac9:1063:f160%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a7b6515b-9066-4460-9bab-950f51be2f02",
+      "time" : {
+        "start" : 1550182698831,
+        "stop" : 1550182772177,
+        "duration" : 73346
+      }
+    }, {
+      "uid" : "a548e62f17dee448",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: /AppiumAUT/XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550182348403,
+        "stop" : 1550182383958,
+        "duration" : 35555
+      }
+    }, {
+      "uid" : "2453ec922f88ba3b",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.AccessibilityId: testBuds}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550181999707,
+        "stop" : 1550182038694,
+        "duration" : 38987
+      }
+    }, {
+      "uid" : "bd006ddd4bcbeffa",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.AccessibilityId: testBuds}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550180102366,
+        "stop" : 1550180138036,
+        "duration" : 35670
+      }
+    }, {
+      "uid" : "e53386e6eac09dda",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/drowsy_icons})",
+      "time" : {
+        "start" : 1550179960619,
+        "stop" : 1550179971117,
+        "duration" : 10498
+      }
+    }, {
+      "uid" : "49f1648e9d9f13ce",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550179111527,
+        "stop" : 1550179132711,
+        "duration" : 21184
+      }
+    }, {
+      "uid" : "12d30d08b84c2775",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/drowsy_icons})",
+      "time" : {
+        "start" : 1550177939543,
+        "stop" : 1550177949900,
+        "duration" : 10357
+      }
+    }, {
+      "uid" : "8813897d275676a3",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550173719767,
+        "stop" : 1550173739217,
+        "duration" : 19450
+      }
+    }, {
+      "uid" : "e3d720ecee9efcaa",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/drowsy_icons})",
+      "time" : {
+        "start" : 1550173215735,
+        "stop" : 1550173227728,
+        "duration" : 11993
+      }
+    }, {
+      "uid" : "cc606d2c37ad9bcc",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/drowsy_icons})",
+      "time" : {
+        "start" : 1550173029838,
+        "stop" : 1550173040863,
+        "duration" : 11025
+      }
+    }, {
+      "uid" : "1726d403ba913e84",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/drowsy_icons})",
+      "time" : {
+        "start" : 1550172863105,
+        "stop" : 1550172873596,
+        "duration" : 10491
+      }
+    }, {
+      "uid" : "64abcdd8439a31b8",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.id: buttonGrantLocationAccess (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550172172345,
+        "stop" : 1550172209460,
+        "duration" : 37115
+      }
+    }, {
+      "uid" : "85b454bbd6815986",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.id: buttonGrantLocationAccess (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550169854002,
+        "stop" : 1550169891229,
+        "duration" : 37227
+      }
+    }, {
+      "uid" : "f8feb70781e78b82",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.id: buttonGrantLocationAccess (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550168994300,
+        "stop" : 1550169031586,
+        "duration" : 37286
+      }
+    }, {
+      "uid" : "c2b916a49e362203",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.id: buttonGrantLocationAccess",
+      "time" : {
+        "start" : 1550166797609,
+        "stop" : 1550166833358,
+        "duration" : 35749
+      }
+    }, {
+      "uid" : "bb5a15c4e7b48a7f",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:4c3:cac9:1063:f160%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appActivity: com.bose.corporation.bosesl..., appPackage: com.bose.corporation.hypno.qa, appWaitActivity: com.bose.corporation.bosesl..., appWaitPackage: com.bose.corporation.hypno.qa, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., deviceName: PH-1, platformName: android, platformVersion: 9}, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 00dd17df-239d-45fe-848f-8758483825ce",
+      "time" : {
+        "start" : 1550165974494,
+        "stop" : 1550166032533,
+        "duration" : 58039
+      }
+    }, {
+      "uid" : "6d5302ce93395a8a",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1550165039275,
+        "stop" : 1550165054080,
+        "duration" : 14805
+      }
+    }, {
+      "uid" : "1963427e8dfe2077",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.id: buttonGrantLocationAccess",
+      "time" : {
+        "start" : 1550095180015,
+        "stop" : 1550095219474,
+        "duration" : 39459
+      }
+    }, {
+      "uid" : "3935a7ae7ca71ad7",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.id: buttonGrantLocationAccess",
+      "time" : {
+        "start" : 1550093863310,
+        "stop" : 1550093898684,
+        "duration" : 35374
+      }
+    }, {
+      "uid" : "8870ab23e209929a",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //android.widget.FrameLayout[@index='0']/android.widget.TextView[@index='1']})",
+      "time" : {
+        "start" : 1549493594087,
+        "stop" : 1549493608784,
+        "duration" : 14697
+      }
+    }, {
+      "uid" : "d66442c6de4bcd16",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.className: //android.widget.FrameLayout[@index='0']/android.widget.TextView[@index='1']})",
+      "time" : {
+        "start" : 1549493401504,
+        "stop" : 1549493412863,
+        "duration" : 11359
+      }
+    }, {
+      "uid" : "f117beb55a7da958",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.className: android.widget.TextView[@index='1']})",
+      "time" : {
+        "start" : 1549418804378,
+        "stop" : 1549418822456,
+        "duration" : 18078
+      }
+    }, {
+      "uid" : "d66b96e6a8a97a62",
+      "status" : "skipped",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.className: android.widget.TextView[@index='1']})",
+      "time" : {
+        "start" : 1549418776430,
+        "stop" : 1549418795089,
+        "duration" : 18659
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a577585faa11717.json",
+  "parameterValues" : [ ]
+}

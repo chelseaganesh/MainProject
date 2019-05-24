@@ -1,0 +1,48 @@
+{
+  "total" : 32,
+  "items" : [ {
+    "uid" : "32a5bcf117885c2f9ab54e3abad11e04",
+    "name" : "Onboarding Test",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 17
+    }
+  }, {
+    "uid" : "9d38f3efdbb701d32914699e1bf95669",
+    "name" : "HomePage Test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "9d00d46793dbc84943053583ae7b01de",
+    "name" : "AboutPage Test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "25b207b0d90f54db268e49191fc2c9d3",
+    "name" : "HomePageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

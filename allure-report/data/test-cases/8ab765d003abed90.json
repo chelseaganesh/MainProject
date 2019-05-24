@@ -1,0 +1,225 @@
+{
+  "uid" : "8ab765d003abed90",
+  "name" : "AB006_C117953",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest.AB006_C117953",
+  "historyId" : "89908a6e0471ad685682f2acba051eac",
+  "time" : {
+    "start" : 1551729803850,
+    "stop" : 1551729852061,
+    "duration" : 48211
+  },
+  "description" : "Tap on the Bose.com from the About list page",
+  "descriptionHtml" : "<p>Tap on the Bose.com from the About list page</p>\n",
+  "status" : "broken",
+  "statusMessage" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:d029%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 503e83bd-7732-4d58-9f9d-862342363e6e",
+  "statusTrace" : "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:d029%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 503e83bd-7732-4d58-9f9d-862342363e6e\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.elementtoClick(CommomnFunctions.java:117)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.tapToConnect(OnBoarding.java:326)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.connectSleepbuds(OnBoarding.java:384)\n\tat Com.Bose.Corporation.PageObjects.HomePage.HomePage.setupBoseSleepBuds(HomePage.java:289)\n\tat Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest.AB006_C117953(AboutPageTest.java:125)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1551729779615,
+      "stop" : 1551729803847,
+      "duration" : 24232
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Tap on the Bose.com from the About list page",
+    "status" : "broken",
+    "statusMessage" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:d029%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 503e83bd-7732-4d58-9f9d-862342363e6e",
+    "statusTrace" : "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:d029%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 503e83bd-7732-4d58-9f9d-862342363e6e\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.elementtoClick(CommomnFunctions.java:117)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.tapToConnect(OnBoarding.java:326)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.connectSleepbuds(OnBoarding.java:384)\n\tat Com.Bose.Corporation.PageObjects.HomePage.HomePage.setupBoseSleepBuds(HomePage.java:289)\n\tat Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest.AB006_C117953(AboutPageTest.java:125)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551729803850,
+        "stop" : 1551729808198,
+        "duration" : 4348
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551729808199,
+        "stop" : 1551729809251,
+        "duration" : 1052
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551729813118,
+        "stop" : 1551729850840,
+        "duration" : 37722
+      },
+      "status" : "broken",
+      "statusMessage" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:d029%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 503e83bd-7732-4d58-9f9d-862342363e6e",
+      "statusTrace" : "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:d029%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 503e83bd-7732-4d58-9f9d-862342363e6e\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)\n\tat Com.Bose.Corporation.Base.CommomnFunctions.elementtoClick(CommomnFunctions.java:117)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.tapToConnect(OnBoarding.java:326)\n\tat Com.Bose.Corporation.PageObjects.OnBoarding.OnBoarding.connectSleepbuds(OnBoarding.java:384)\n\tat Com.Bose.Corporation.PageObjects.HomePage.HomePage.setupBoseSleepBuds(HomePage.java:289)\n\tat Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest.AB006_C117953(AboutPageTest.java:125)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "9b8250dea9631b6b",
+      "name" : "Page Screenshot",
+      "source" : "9b8250dea9631b6b.png",
+      "type" : "image/png",
+      "size" : 240648
+    }, {
+      "uid" : "2128b8c5bb5b00a5",
+      "name" : "(0)",
+      "source" : "2128b8c5bb5b00a5.txt",
+      "type" : "image/png",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551729852063,
+      "stop" : 1551729853137,
+      "duration" : 1074
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "AB006_C117953"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DrowsyHypnoQA"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.About.AboutPageTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "38546@Divijs-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "AboutPage Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fc79aa9d4fb27d20",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551481137614,
+        "stop" : 1551481137614,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "909c3ad62e610b6c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551358303843,
+        "stop" : 1551358303843,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b15a38a437c23885",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551323350126,
+        "stop" : 1551323350126,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7064811a632a5008",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551320448719,
+        "stop" : 1551320448719,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8900c30ae7724856",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551294386589,
+        "stop" : 1551294493806,
+        "duration" : 107217
+      }
+    }, {
+      "uid" : "5a29e0a401f9cb95",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1551283790710,
+        "stop" : 1551283813027,
+        "duration" : 22317
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8ab765d003abed90.json",
+  "parameterValues" : [ ]
+}

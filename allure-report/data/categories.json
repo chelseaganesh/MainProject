@@ -1,0 +1,257 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "listen",
+        "uid" : "412727836c7e1b6b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1549387529941,
+          "stop" : 1549387529943,
+          "duration" : 2
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "getRunIDs",
+        "uid" : "2652bd609bb04221",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1550970030651,
+          "stop" : 1550970033921,
+          "duration" : 3270
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    }, {
+      "name" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AndroidUIAutomator: text(\"Add Sleepbuds\")}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "user onboarding and connecting buds.",
+        "uid" : "34e7df478c9ec75c",
+        "parentUid" : "79589b31fdd51d9620f9b1e0bece0701",
+        "status" : "broken",
+        "time" : {
+          "start" : 1549390350013,
+          "stop" : 1549390388185,
+          "duration" : 38172
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "79589b31fdd51d9620f9b1e0bece0701"
+    }, {
+      "name" : "Can't locate an element by this strategy: By.chained({By.xpath: android.widget.TextView[@index='1']})",
+      "children" : [ {
+        "name" : "We Need Some Access Screen",
+        "uid" : "e614bbc29e92c6a9",
+        "parentUid" : "2085c7c97efe841e51d3b2d045da12cf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1549399010647,
+          "stop" : 1549399019856,
+          "duration" : 9209
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2085c7c97efe841e51d3b2d045da12cf"
+    }, {
+      "name" : "An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command '/users/divijmothereddy/Library/Android/sdk/platform-tools/adb -P 5037 -s PM1LHMA7C2204945 shell am force-stop com.bose.corporation.hypno.qa' exited with code 2'; Stderr: ''; Code: '2'\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:39ec%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 384774a8-4676-49f3-b8da-4b3e219fd134",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "2dec200a562c5bf6",
+        "parentUid" : "3725d04c737b08bbbabbfdce19c0ade3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551271101410,
+          "stop" : 1551271101410,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3725d04c737b08bbbabbfdce19c0ade3"
+    }, {
+      "name" : "It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: driver.version: AndroidDriver",
+      "children" : [ {
+        "name" : "setup",
+        "uid" : "3bc314375420085e",
+        "parentUid" : "b02e92247ea33654017c74d3640e2840",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551283611938,
+          "stop" : 1551283611939,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "e0b698b1a2fd19b7",
+        "parentUid" : "b02e92247ea33654017c74d3640e2840",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551896694514,
+          "stop" : 1551896694517,
+          "duration" : 3
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b02e92247ea33654017c74d3640e2840"
+    }, {
+      "name" : "Connection refused (Connection refused)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: driver.version: AndroidDriver",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "2eafe290243e538b",
+        "parentUid" : "05486c336317fab51d132d05100b8e2a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551295347945,
+          "stop" : 1551295347945,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "05486c336317fab51d132d05100b8e2a"
+    }, {
+      "name" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:d029%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 503e83bd-7732-4d58-9f9d-862342363e6e",
+      "children" : [ {
+        "name" : "AB006_C117953",
+        "uid" : "8ab765d003abed90",
+        "parentUid" : "4ecbe2ef8a2eed0df79f854176a67def",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551729803850,
+          "stop" : 1551729852061,
+          "duration" : 48211
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ecbe2ef8a2eed0df79f854176a67def"
+    }, {
+      "name" : "A session is either terminated or not started\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: d6e0be91-a6ce-4116-9f4d-f4faf2cfd001",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "e394128a5cfc45f5",
+        "parentUid" : "01bf4d2bdffb95563176109a3f38d038",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551812961289,
+          "stop" : 1551812961294,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "01bf4d2bdffb95563176109a3f38d038"
+    }, {
+      "name" : "Can't locate an element by this strategy: By.chained({By.xpath: //*[@class='android.widget.TextView' and @index='12']})",
+      "children" : [ {
+        "name" : "All done Screen",
+        "uid" : "dd8dbe7de3f7fdc0",
+        "parentUid" : "df4966780157df47f65496148aaa8ca7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1551892121132,
+          "stop" : 1551892209582,
+          "duration" : 88450
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df4966780157df47f65496148aaa8ca7"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [While you sleep, the app needs to stay awake to make sure your sleepbuds play masking sounds all night and your alarm wakes you up on time. Turn off battery optimizations for this app so you can rest easy.] but found [Pulling an all-nighter.]",
+      "children" : [ {
+        "name" : "Disable Doze screen",
+        "uid" : "3c9f420b09eae1da",
+        "parentUid" : "b19a31be7b7ae95b8a7e4a2a1cc310ea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549403012548,
+          "stop" : 1549403025533,
+          "duration" : 12985
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Disable Doze screen",
+        "uid" : "7f4d67c5e99cd6c5",
+        "parentUid" : "b19a31be7b7ae95b8a7e4a2a1cc310ea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549404222477,
+          "stop" : 1549404232387,
+          "duration" : 9910
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b19a31be7b7ae95b8a7e4a2a1cc310ea"
+    }, {
+      "name" : "expected [Apps using Bluetooth Low Energy are now required to have location access enabled. We don't like it either, but don't worry: we only need BLE to make our magic work. We're not using your GPS, tracking you or saving any of your location data. ] but found [Apps using Bluetooth Low Energy are now required to have location access enabled. We don't like it either, but don't worry: we only need BLE to make our magic work. We're not using your GPS, tracking you or saving any of your location data.]",
+      "children" : [ {
+        "name" : "We Need Some Access Screen",
+        "uid" : "38f5c15764a43df3",
+        "parentUid" : "4f05d3e981ed44d6af70779ea734e17c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549404187048,
+          "stop" : 1549404194693,
+          "duration" : 7645
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4f05d3e981ed44d6af70779ea734e17c"
+    }, {
+      "name" : "expected [Use a mirror or a friend to see if your sleepbuds look like this.] but found [Use a mirror or ask a friend to see if your sleepbuds look like this.]",
+      "children" : [ {
+        "name" : "let's check a few things screen",
+        "uid" : "807bf8241ede1b19",
+        "parentUid" : "8a99de6e726b590971eaf209bf594751",
+        "status" : "failed",
+        "time" : {
+          "start" : 1551715194359,
+          "stop" : 1551715290987,
+          "duration" : 96628
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8a99de6e726b590971eaf209bf594751"
+    }, {
+      "name" : "expected [Use a mirror or ask a friend to see if your sleepbuds look like this.] but found [Use a mirror or a friend to see if your sleepbuds look like this.]",
+      "children" : [ {
+        "name" : "let's check a few things screen",
+        "uid" : "dc3f565291a86fb4",
+        "parentUid" : "6a55a5d3d7f06e8ecc76f73f8d247c05",
+        "status" : "failed",
+        "time" : {
+          "start" : 1551891469752,
+          "stop" : 1551891538857,
+          "duration" : 69105
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a55a5d3d7f06e8ecc76f73f8d247c05"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

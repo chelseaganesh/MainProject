@@ -1,0 +1,428 @@
+{
+  "uid" : "93b065a7ed3f54f9",
+  "name" : "user onboarding and connecting buds.",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Home.HomePageTest.TC_HP_C116935",
+  "historyId" : "9a336e2b7df0f13f2871ebf9a0994689",
+  "time" : {
+    "start" : 1551814620461,
+    "stop" : 1551814792866,
+    "duration" : 172405
+  },
+  "description" : "user onboarding and connecting buds.",
+  "descriptionHtml" : "<p>user onboarding and connecting buds.</p>\n",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551814570257,
+      "stop" : 1551814590280,
+      "duration" : 20023
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1551814590292,
+      "stop" : 1551814620120,
+      "duration" : 29828
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "user onboarding and connecting buds.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551814620476,
+        "stop" : 1551814624393,
+        "duration" : 3917
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551814624394,
+        "stop" : 1551814625379,
+        "duration" : 985
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551814630196,
+        "stop" : 1551814676703,
+        "duration" : 46507
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_startLearning",
+      "time" : {
+        "start" : 1551814676703,
+        "stop" : 1551814684125,
+        "duration" : 7422
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Next",
+      "time" : {
+        "start" : 1551814739847,
+        "stop" : 1551814740755,
+        "duration" : 908
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Next",
+      "time" : {
+        "start" : 1551814764520,
+        "stop" : 1551814765590,
+        "duration" : 1070
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_IUnderstand",
+      "time" : {
+        "start" : 1551814765590,
+        "stop" : 1551814766646,
+        "duration" : 1056
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_gotIt",
+      "time" : {
+        "start" : 1551814766646,
+        "stop" : 1551814767868,
+        "duration" : 1222
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "4b44dd261eb0cb0b",
+      "name" : "Page Screenshot",
+      "source" : "4b44dd261eb0cb0b.png",
+      "type" : "image/png",
+      "size" : 397372
+    }, {
+      "uid" : "c5712818b131e619",
+      "name" : "(0)",
+      "source" : "c5712818b131e619.txt",
+      "type" : "image/png",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551814792879,
+      "stop" : 1551814793929,
+      "duration" : 1050
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "Kill",
+    "time" : {
+      "start" : 1551814793931,
+      "stop" : 1551814795946,
+      "duration" : 2015
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Home.HomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Home.HomePageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_HP_C116935"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DrowsyHypnoQA"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Home.HomePageTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MBP.bose.com"
+  }, {
+    "name" : "thread",
+    "value" : "44250@Divijs-MBP.bose.com.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "HomePageTest"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "973dc8be36bb6a1a",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeOther[@name=\"testBuds\"]})",
+      "time" : {
+        "start" : 1551814040022,
+        "stop" : 1551814216847,
+        "duration" : 176825
+      }
+    }, {
+      "uid" : "bf460c41f2c77010",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 06228a8f-51b3-44e5-bfd5-fe68ba3f370a",
+      "time" : {
+        "start" : 1551813436494,
+        "stop" : 1551813472004,
+        "duration" : 35510
+      }
+    }, {
+      "uid" : "7f93d5d2a40c6dd4",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 629733db-5519-4771-92b7-fb0517df8397",
+      "time" : {
+        "start" : 1551813079723,
+        "stop" : 1551813162430,
+        "duration" : 82707
+      }
+    }, {
+      "uid" : "5503a1107471c0c4",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: d6e0be91-a6ce-4116-9f4d-f4faf2cfd001",
+      "time" : {
+        "start" : 1551812769104,
+        "stop" : 1551812903231,
+        "duration" : 134127
+      }
+    }, {
+      "uid" : "bc049ed947128f27",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.AccessibilityId: testBuds})",
+      "time" : {
+        "start" : 1551812517285,
+        "stop" : 1551812572726,
+        "duration" : 55441
+      }
+    }, {
+      "uid" : "6da10e0eda59b449",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551662675503,
+        "stop" : 1551662820196,
+        "duration" : 144693
+      }
+    }, {
+      "uid" : "dd93f2a5d44ce0c0",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeOther[@name=\"testBuds\"]})",
+      "time" : {
+        "start" : 1551393520452,
+        "stop" : 1551393704471,
+        "duration" : 184019
+      }
+    }, {
+      "uid" : "9654b2e8da8540db",
+      "status" : "skipped",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeOther[@name=\"testBuds\"]})",
+      "time" : {
+        "start" : 1551393325686,
+        "stop" : 1551393493245,
+        "duration" : 167559
+      }
+    }, {
+      "uid" : "a63f5f889237de6d",
+      "status" : "failed",
+      "statusDetails" : "expected [testBUds] but found [testBuds]",
+      "time" : {
+        "start" : 1551380827605,
+        "stop" : 1551380925922,
+        "duration" : 98317
+      }
+    }, {
+      "uid" : "b36d4c4cf621a22c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.id: com.bose.corporation.hypno.qa:id/startLearningButton}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551380734242,
+        "stop" : 1551380782660,
+        "duration" : 48418
+      }
+    }, {
+      "uid" : "992104574e998569",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.id: com.bose.corporation.hypno.qa:id/startLearningButton}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551380647385,
+        "stop" : 1551380693168,
+        "duration" : 45783
+      }
+    }, {
+      "uid" : "2823b2d4e5ced9df",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1551380575654,
+        "stop" : 1551380608988,
+        "duration" : 33334
+      }
+    }, {
+      "uid" : "76caf450eb881838",
+      "status" : "skipped",
+      "statusDetails" : "Can't locate an element by this strategy: By.id: sleepbudsText",
+      "time" : {
+        "start" : 1551378026944,
+        "stop" : 1551378201434,
+        "duration" : 174490
+      }
+    }, {
+      "uid" : "382d9e3bf77a791b",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.id: sleepbudsText",
+      "time" : {
+        "start" : 1551376126038,
+        "stop" : 1551376300422,
+        "duration" : 174384
+      }
+    }, {
+      "uid" : "f2c800ee01eb4b29",
+      "status" : "skipped",
+      "statusDetails" : "Can't locate an element by this strategy: By.id: sleepbudsText",
+      "time" : {
+        "start" : 1551375940740,
+        "stop" : 1551376099029,
+        "duration" : 158289
+      }
+    }, {
+      "uid" : "2ee129c726a86cec",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.id: buttonGotIt (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551372098616,
+        "stop" : 1551372271927,
+        "duration" : 173311
+      }
+    }, {
+      "uid" : "a7dcfa1db42e1bd3",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.id: buttonGotIt (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551371907576,
+        "stop" : 1551372072350,
+        "duration" : 164774
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93b065a7ed3f54f9.json",
+  "parameterValues" : [ ]
+}

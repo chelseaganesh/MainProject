@@ -1,0 +1,879 @@
+{
+  "uid" : "355d1129a03f8fc2",
+  "name" : "We Need Some Access Screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.OB_TC_C116884",
+  "historyId" : "83c2f679a3216cf7fcf5fd9cc3ae9b57",
+  "time" : {
+    "start" : 1551890971814,
+    "stop" : 1551890987021,
+    "duration" : 15207
+  },
+  "description" : "We Need Some Access Screen",
+  "descriptionHtml" : "<p>We Need Some Access Screen</p>\n",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551890946851,
+      "stop" : 1551890971498,
+      "duration" : 24647
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551890926822,
+      "stop" : 1551890946840,
+      "duration" : 20018
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "We Need Some Access Screen",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551890976802,
+        "stop" : 1551890977063,
+        "duration" : 261
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551890977063,
+        "stop" : 1551890978032,
+        "duration" : 969
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "bb31e9bb1595cb3c",
+      "name" : "Page Screenshot",
+      "source" : "bb31e9bb1595cb3c.png",
+      "type" : "image/png",
+      "size" : 221203
+    }, {
+      "uid" : "dff14e61b2677fc6",
+      "name" : "(0)",
+      "source" : "dff14e61b2677fc6.txt",
+      "type" : "image/png",
+      "size" : 40
+    }, {
+      "uid" : "89260d943a2d8a8a",
+      "name" : "Page Screenshot",
+      "source" : "89260d943a2d8a8a.png",
+      "type" : "image/png",
+      "size" : 221072
+    }, {
+      "uid" : "2f8be3002e14ab31",
+      "name" : "(0)",
+      "source" : "2f8be3002e14ab31.txt",
+      "type" : "image/png",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551890987031,
+      "stop" : 1551890987180,
+      "duration" : 149
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "kill",
+    "time" : {
+      "start" : 1551892209790,
+      "stop" : 1551892229808,
+      "duration" : 20018
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "OB_TC_C116884"
+  }, {
+    "name" : "parentSuite",
+    "value" : " Ios Regression Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OnBoardingTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MBP.bose.com"
+  }, {
+    "name" : "thread",
+    "value" : "47664@Divijs-MBP.bose.com.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Onboarding Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "343943952d521da3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551890721774,
+        "stop" : 1551890734407,
+        "duration" : 12633
+      }
+    }, {
+      "uid" : "e0c323cff463a88e",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.id: weNeedAccessHeader (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551889845750,
+        "stop" : 1551889882529,
+        "duration" : 36779
+      }
+    }, {
+      "uid" : "b67c24b84ac5a632",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.id: weNeedAccessHeader (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551889781272,
+        "stop" : 1551889818235,
+        "duration" : 36963
+      }
+    }, {
+      "uid" : "f0d412b2a6a5684b",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.id: weNeedAccessHeader (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551887858625,
+        "stop" : 1551887897369,
+        "duration" : 38744
+      }
+    }, {
+      "uid" : "962401769d4d0db0",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.id: weNeedAccessHeader (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551887794103,
+        "stop" : 1551887832450,
+        "duration" : 38347
+      }
+    }, {
+      "uid" : "10e79119e499f4ee",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.id: weNeedAccessHeader (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551887481295,
+        "stop" : 1551887519000,
+        "duration" : 37705
+      }
+    }, {
+      "uid" : "be82916a45eec4c3",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.id: weNeedAccessHeader (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551887416635,
+        "stop" : 1551887454492,
+        "duration" : 37857
+      }
+    }, {
+      "uid" : "153f40e287117585",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.id: weNeedAccessHeader (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551714535336,
+        "stop" : 1551714573199,
+        "duration" : 37863
+      }
+    }, {
+      "uid" : "b2362d4205ea4e8d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551669809695,
+        "stop" : 1551669809695,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "335209cc817b9477",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551669358536,
+        "stop" : 1551669358536,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e2dddfb638aa36bb",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551669194198,
+        "stop" : 1551669194198,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f91bf60ddc783456",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551668733532,
+        "stop" : 1551668733532,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b084f47717aeeea5",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551666003306,
+        "stop" : 1551666003307,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ede0b9b63f1492dd",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.id: weNeedAccessHeader (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551392588150,
+        "stop" : 1551392626094,
+        "duration" : 37944
+      }
+    }, {
+      "uid" : "97132a47587cfc0f",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.id: weNeedAccessHeader (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551392522096,
+        "stop" : 1551392561489,
+        "duration" : 39393
+      }
+    }, {
+      "uid" : "bf3f70c8f4321329",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551358511121,
+        "stop" : 1551358526391,
+        "duration" : 15270
+      }
+    }, {
+      "uid" : "d80fe96d0434ae26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551322937022,
+        "stop" : 1551322960081,
+        "duration" : 23059
+      }
+    }, {
+      "uid" : "4953293fe6718db4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551320176344,
+        "stop" : 1551320191540,
+        "duration" : 15196
+      }
+    }, {
+      "uid" : "213027f6e38372e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551292500363,
+        "stop" : 1551292515463,
+        "duration" : 15100
+      }
+    }, {
+      "uid" : "d3b5c503a091566f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551286565292,
+        "stop" : 1551286586049,
+        "duration" : 20757
+      }
+    }, {
+      "uid" : "d82d890f4d418ad3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551285618694,
+        "stop" : 1551285633894,
+        "duration" : 15200
+      }
+    }, {
+      "uid" : "667522104660418",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551285334739,
+        "stop" : 1551285349548,
+        "duration" : 14809
+      }
+    }, {
+      "uid" : "f47c568294554d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551125957303,
+        "stop" : 1551125966489,
+        "duration" : 9186
+      }
+    }, {
+      "uid" : "485649ee58e43cf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551120959419,
+        "stop" : 1551120971897,
+        "duration" : 12478
+      }
+    }, {
+      "uid" : "38d738c08ea6b3e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550983530431,
+        "stop" : 1550983540162,
+        "duration" : 9731
+      }
+    }, {
+      "uid" : "6d7ddc09dbcfae89",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.JSONArray cannot be cast to org.json.simple.JSONObject",
+      "time" : {
+        "start" : 1550983373963,
+        "stop" : 1550983384812,
+        "duration" : 10849
+      }
+    }, {
+      "uid" : "3b8ce4a777f2d38b",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1550983239678,
+        "stop" : 1550983249693,
+        "duration" : 10015
+      }
+    }, {
+      "uid" : "be9aaf3667c163d8",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1550971186533,
+        "stop" : 1550971197881,
+        "duration" : 11348
+      }
+    }, {
+      "uid" : "21d2521fb826b1",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1550970727840,
+        "stop" : 1550970754625,
+        "duration" : 26785
+      }
+    }, {
+      "uid" : "cd20b6900ec77fce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550967800757,
+        "stop" : 1550967827881,
+        "duration" : 27124
+      }
+    }, {
+      "uid" : "c979560ef93f966c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550707045655,
+        "stop" : 1550707080015,
+        "duration" : 34360
+      }
+    }, {
+      "uid" : "949faa2a2ae3daa9",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550706782504,
+        "stop" : 1550706816699,
+        "duration" : 34195
+      }
+    }, {
+      "uid" : "2d4d60ad08afbfb2",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550706568473,
+        "stop" : 1550706602659,
+        "duration" : 34186
+      }
+    }, {
+      "uid" : "9765fcbe673d9d3d",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550706356683,
+        "stop" : 1550706381048,
+        "duration" : 24365
+      }
+    }, {
+      "uid" : "4fca0549bd07f5c0",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550706276466,
+        "stop" : 1550706290653,
+        "duration" : 14187
+      }
+    }, {
+      "uid" : "491575b6cb56deb0",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550706184050,
+        "stop" : 1550706198277,
+        "duration" : 14227
+      }
+    }, {
+      "uid" : "ab30e5dfa7159f4c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550705933274,
+        "stop" : 1550705947171,
+        "duration" : 13897
+      }
+    }, {
+      "uid" : "7161a4600da2dde6",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550705762834,
+        "stop" : 1550705777151,
+        "duration" : 14317
+      }
+    }, {
+      "uid" : "f998684d3a03a6f9",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550703832667,
+        "stop" : 1550703848100,
+        "duration" : 15433
+      }
+    }, {
+      "uid" : "4be0e8c7a488c894",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550703805693,
+        "stop" : 1550703821273,
+        "duration" : 15580
+      }
+    }, {
+      "uid" : "bd1c9639d973bcdf",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550260232881,
+        "stop" : 1550260232881,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e79d11a21493b10f",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259925747,
+        "stop" : 1550259925747,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "34acb74ff193dd03",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259824001,
+        "stop" : 1550259824001,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "be0a0ddab0b51796",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259714570,
+        "stop" : 1550259714570,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a39b5c6ea8c72807",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259657001,
+        "stop" : 1550259657001,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d0e66721eefb57f7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550259548615,
+        "stop" : 1550259548615,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "164845d20e4f2541",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550258636932,
+        "stop" : 1550258636932,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "462a2ebf7b40c3e5",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550258184082,
+        "stop" : 1550258184082,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1bd7846448b072f",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550256518759,
+        "stop" : 1550256518759,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b557ec1a78cb387f",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550256276801,
+        "stop" : 1550256276801,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ca63bc61a6bd8901",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550255889492,
+        "stop" : 1550255889492,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c6e47bf7dfde468b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550255704538,
+        "stop" : 1550255704538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "63d2d966b13a34f9",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550252497451,
+        "stop" : 1550252497451,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bddd5de65220b5ff",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550252368514,
+        "stop" : 1550252368514,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b5f9135c61f5ce47",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550183030845,
+        "stop" : 1550183030845,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e2938701b8473ab9",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550182861427,
+        "stop" : 1550182861427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d0fdb8e45343b7d7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550182691709,
+        "stop" : 1550182691709,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "92f781e2543ff414",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550182619888,
+        "stop" : 1550182619888,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "23d5efb57bb81dab",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550182320270,
+        "stop" : 1550182320270,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ccfe3dc00f127f59",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550181972460,
+        "stop" : 1550181972460,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b6fa07c46a35203b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550180074899,
+        "stop" : 1550180074899,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "96a81b8058c3a1d7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550179953807,
+        "stop" : 1550179953807,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "74bc8e6901523aa7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550179104559,
+        "stop" : 1550179104559,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2008b7f0a3aa4f35",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550177924269,
+        "stop" : 1550177924269,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c7768549b8039145",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550173712977,
+        "stop" : 1550173712978,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6fc3da2d7be50b7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550173209250,
+        "stop" : 1550173209250,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a146b31b63a6200d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550173023269,
+        "stop" : 1550173023269,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c823f758b57ffed7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550172855703,
+        "stop" : 1550172855704,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "afc3a6d7c6eb74f1",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550172144273,
+        "stop" : 1550172144273,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ca243d4ead1a622c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550169826856,
+        "stop" : 1550169826858,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ebae4248f76bfd84",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550168967244,
+        "stop" : 1550168967246,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "effb3980bf60824",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550166770108,
+        "stop" : 1550166770110,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "88edcdc074ca6046",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550165964562,
+        "stop" : 1550165964563,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eab921ad458323b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550165018873,
+        "stop" : 1550165018874,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9de74e45f6923542",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550095153320,
+        "stop" : 1550095153322,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ddcc10097148e2c0",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1550093825690,
+        "stop" : 1550093825692,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "93d83702e8a496d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1549494452392,
+        "stop" : 1549494462433,
+        "duration" : 10041
+      }
+    }, {
+      "uid" : "2199df5ff6fe72cb",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: android.widget.TextView[@index='0']})",
+      "time" : {
+        "start" : 1549494187606,
+        "stop" : 1549494198394,
+        "duration" : 10788
+      }
+    }, {
+      "uid" : "ed1637955c9aa110",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: android.widget.TextView[@index='0']}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1549494048242,
+        "stop" : 1549494068907,
+        "duration" : 20665
+      }
+    }, {
+      "uid" : "8b11212d08d5e6d6",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: //android.widget.ScrollView[@index='0']/android.widget.TextView[@index='0']}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1549493732938,
+        "stop" : 1549493754087,
+        "duration" : 21149
+      }
+    }, {
+      "uid" : "7fc0200a506b20b9",
+      "status" : "failed",
+      "statusDetails" : "expected [We need some access.] but found [Apps using Bluetooth Low Energy are now required to have location access enabled. We don't like it either, but don't worry: we only need BLE to make our magic work. We're not using your GPS, tracking you or saving any of your location data.]",
+      "time" : {
+        "start" : 1549418704167,
+        "stop" : 1549418717150,
+        "duration" : 12983
+      }
+    }, {
+      "uid" : "5d630c2494cac793",
+      "status" : "skipped",
+      "statusDetails" : "expected [We need some access.] but found [Apps using Bluetooth Low Energy are now required to have location access enabled. We don't like it either, but don't worry: we only need BLE to make our magic work. We're not using your GPS, tracking you or saving any of your location data.]",
+      "time" : {
+        "start" : 1549418681873,
+        "stop" : 1549418694879,
+        "duration" : 13006
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "355d1129a03f8fc2.json",
+  "parameterValues" : [ ]
+}

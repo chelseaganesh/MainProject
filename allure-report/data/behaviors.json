@@ -1,0 +1,717 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "HomePage Test",
+    "children" : [ {
+      "name" : "listen",
+      "uid" : "412727836c7e1b6b",
+      "parentUid" : "9d38f3efdbb701d32914699e1bf95669",
+      "status" : "broken",
+      "time" : {
+        "start" : 1549387529941,
+        "stop" : 1549387529943,
+        "duration" : 2
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "user onboarding and connecting buds.",
+      "uid" : "34e7df478c9ec75c",
+      "parentUid" : "9d38f3efdbb701d32914699e1bf95669",
+      "status" : "broken",
+      "time" : {
+        "start" : 1549390350013,
+        "stop" : 1549390388185,
+        "duration" : 38172
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "user onboarding and connecting buds.",
+      "uid" : "f11cc099364df780",
+      "parentUid" : "9d38f3efdbb701d32914699e1bf95669",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551391212374,
+        "stop" : 1551391362669,
+        "duration" : 150295
+      },
+      "flaky" : false,
+      "parameters" : [ "1195" ]
+    } ],
+    "uid" : "9d38f3efdbb701d32914699e1bf95669"
+  }, {
+    "name" : "We Need Some Access Screen",
+    "uid" : "e614bbc29e92c6a9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1549399010647,
+      "stop" : 1549399019856,
+      "duration" : 9209
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Disable Doze screen",
+    "uid" : "3c9f420b09eae1da",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1549403012548,
+      "stop" : 1549403025533,
+      "duration" : 12985
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "We Need Some Access Screen",
+    "uid" : "38f5c15764a43df3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1549404187048,
+      "stop" : 1549404194693,
+      "duration" : 7645
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "Disable Doze screen",
+    "uid" : "7f4d67c5e99cd6c5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1549404222477,
+      "stop" : 1549404232387,
+      "duration" : 9910
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "getRunIDs",
+    "uid" : "2652bd609bb04221",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1550970030651,
+      "stop" : 1550970033921,
+      "duration" : 3270
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "tearDown",
+    "uid" : "2dec200a562c5bf6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1551271101410,
+      "stop" : 1551271101410,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "setup",
+    "uid" : "3bc314375420085e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1551283611938,
+      "stop" : 1551283611939,
+      "duration" : 1
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "setUp",
+    "uid" : "2eafe290243e538b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1551295347945,
+      "stop" : 1551295347945,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "charging your case screen",
+    "uid" : "4bec440f1ce6cbbe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970439,
+      "stop" : 1551390970441,
+      "duration" : 2
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "charging your sleepbuds screen",
+    "uid" : "c231746b045de942",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970561,
+      "stop" : 1551390970561,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "Too Large screen",
+    "uid" : "d718933ac5d69982",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970564,
+      "stop" : 1551390970564,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "Perfect fit screen",
+    "uid" : "31483bab9bfb9f42",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970566,
+      "stop" : 1551390970566,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "your safety screen",
+    "uid" : "b95a97549643edbe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970568,
+      "stop" : 1551390970568,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "let's check a few things screen",
+    "uid" : "9ab2852068acb913",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970571,
+      "stop" : 1551390970571,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "Power and charging screen",
+    "uid" : "e9c3cf009a646a3e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970572,
+      "stop" : 1551390970572,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "Disable Doze screen",
+    "uid" : "776f8e4e8a8b1274",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970574,
+      "stop" : 1551390970574,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "Try on Sleepbud Screen",
+    "uid" : "cebed49a185d0ff1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970576,
+      "stop" : 1551390970576,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "great job screen",
+    "uid" : "b7f1d71bda3658b5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970579,
+      "stop" : 1551390970579,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "Welcome screen",
+    "uid" : "262c57cc14ab7fe7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551390970580,
+      "stop" : 1551390970580,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ "1195" ]
+  }, {
+    "name" : "AB010_C117960",
+    "uid" : "c26e51d9390b5f2d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551481137603,
+      "stop" : 1551481137603,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "AB010_C117959",
+    "uid" : "de0d977310df4594",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551481137607,
+      "stop" : 1551481137607,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "AB011_C117964",
+    "uid" : "107a267f0dec4f3c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551481137612,
+      "stop" : 1551481137612,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "AB009_C117958",
+    "uid" : "fb1459443b2d3669",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1551481137619,
+      "stop" : 1551481137619,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "Navigating to settings page and validation",
+    "uid" : "8905cc925bdcc77c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1551482296229,
+      "stop" : 1551482466239,
+      "duration" : 170010
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "Nickname it page",
+    "uid" : "6dedf7ada3a5a345",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1551482493506,
+      "stop" : 1551482660417,
+      "duration" : 166911
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Battery Page",
+    "uid" : "cef2ebab0ef0d9ef",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1551482707088,
+      "stop" : 1551482859456,
+      "duration" : 152368
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Product Info",
+    "uid" : "48de73f3b34f46c8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1551482885543,
+      "stop" : 1551483037698,
+      "duration" : 152155
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Sleep Timer",
+    "uid" : "e68f915e98e02aba",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1551483063831,
+      "stop" : 1551483216065,
+      "duration" : 152234
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "Onboarding Test",
+    "children" : [ {
+      "name" : "let's check a few things screen",
+      "uid" : "807bf8241ede1b19",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "failed",
+      "time" : {
+        "start" : 1551715194359,
+        "stop" : 1551715290987,
+        "duration" : 96628
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "We Need Some Access Screen",
+      "uid" : "355d1129a03f8fc2",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551890971814,
+        "stop" : 1551890987021,
+        "duration" : 15207
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Disable Doze screen",
+      "uid" : "f2cf9d4b7a414e7f",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551890992309,
+        "stop" : 1551891010673,
+        "duration" : 18364
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Welcome screen",
+      "uid" : "3a577585faa11717",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891015935,
+        "stop" : 1551891081644,
+        "duration" : 65709
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Find your size screen",
+      "uid" : "8b840d788c4fccd0",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891086771,
+        "stop" : 1551891138469,
+        "duration" : 51698
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Try on Sleepbud Screen",
+      "uid" : "af77654b9db71b1f",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891143985,
+        "stop" : 1551891193459,
+        "duration" : 49474
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Too small screen",
+      "uid" : "cc9a6c481be85027",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891198720,
+        "stop" : 1551891254694,
+        "duration" : 55974
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Too Large screen",
+      "uid" : "6eec14e8be285709",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891259918,
+        "stop" : 1551891318080,
+        "duration" : 58162
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Perfect fit screen",
+      "uid" : "bec98a0a174245c0",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891323360,
+        "stop" : 1551891387814,
+        "duration" : 64454
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "let's check a few things screen",
+      "uid" : "dc3f565291a86fb4",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "failed",
+      "time" : {
+        "start" : 1551891469752,
+        "stop" : 1551891538857,
+        "duration" : 69105
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "great job screen",
+      "uid" : "3e144b613a533f91",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891595830,
+        "stop" : 1551891671414,
+        "duration" : 75584
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Power and charging screen",
+      "uid" : "ca856705fb679e49",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891676783,
+        "stop" : 1551891753283,
+        "duration" : 76500
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "charging your case screen",
+      "uid" : "8d78051eed95da6a",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891758561,
+        "stop" : 1551891840016,
+        "duration" : 81455
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "charging your sleepbuds screen",
+      "uid" : "a83353a2712b828",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891845329,
+        "stop" : 1551891930026,
+        "duration" : 84697
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "your safety screen",
+      "uid" : "51d95c45cd8ff6d6",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891935226,
+        "stop" : 1551892021369,
+        "duration" : 86143
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "All done Screen",
+      "uid" : "dd8dbe7de3f7fdc0",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "broken",
+      "time" : {
+        "start" : 1551892121132,
+        "stop" : 1551892209582,
+        "duration" : 88450
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "setUp",
+      "uid" : "e0b698b1a2fd19b7",
+      "parentUid" : "32a5bcf117885c2f9ab54e3abad11e04",
+      "status" : "broken",
+      "time" : {
+        "start" : 1551896694514,
+        "stop" : 1551896694517,
+        "duration" : 3
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "32a5bcf117885c2f9ab54e3abad11e04"
+  }, {
+    "name" : "AboutPage Test",
+    "children" : [ {
+      "name" : "AB001_C117939",
+      "uid" : "bd743d4367d47cf4",
+      "parentUid" : "9d00d46793dbc84943053583ae7b01de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551728805496,
+        "stop" : 1551728996606,
+        "duration" : 191110
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "AB002_C117941",
+      "uid" : "eca8c45e09acbf30",
+      "parentUid" : "9d00d46793dbc84943053583ae7b01de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551729023347,
+        "stop" : 1551729186241,
+        "duration" : 162894
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "AB003_C117942",
+      "uid" : "f598c766a2f17036",
+      "parentUid" : "9d00d46793dbc84943053583ae7b01de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551729212562,
+        "stop" : 1551729372815,
+        "duration" : 160253
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "AB004_C117943",
+      "uid" : "e933b2f8889a65a0",
+      "parentUid" : "9d00d46793dbc84943053583ae7b01de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551729400468,
+        "stop" : 1551729574602,
+        "duration" : 174134
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "AB005_C117945",
+      "uid" : "d0a4dc92584333dd",
+      "parentUid" : "9d00d46793dbc84943053583ae7b01de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551729602200,
+        "stop" : 1551729778529,
+        "duration" : 176329
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "AB006_C117953",
+      "uid" : "8ab765d003abed90",
+      "parentUid" : "9d00d46793dbc84943053583ae7b01de",
+      "status" : "broken",
+      "time" : {
+        "start" : 1551729803850,
+        "stop" : 1551729852061,
+        "duration" : 48211
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "AB007_C117954",
+      "uid" : "50b10cbab51e1421",
+      "parentUid" : "9d00d46793dbc84943053583ae7b01de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551740395403,
+        "stop" : 1551740505075,
+        "duration" : 109672
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "AB008_C117957",
+      "uid" : "f424126e673787a5",
+      "parentUid" : "9d00d46793dbc84943053583ae7b01de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551740886670,
+        "stop" : 1551741052102,
+        "duration" : 165432
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9d00d46793dbc84943053583ae7b01de"
+  }, {
+    "name" : "HomePageTest",
+    "children" : [ {
+      "name" : "tearDown",
+      "uid" : "e394128a5cfc45f5",
+      "parentUid" : "25b207b0d90f54db268e49191fc2c9d3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1551812961289,
+        "stop" : 1551812961294,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "user onboarding and connecting buds.",
+      "uid" : "93b065a7ed3f54f9",
+      "parentUid" : "25b207b0d90f54db268e49191fc2c9d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551814620461,
+        "stop" : 1551814792866,
+        "duration" : 172405
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "25b207b0d90f54db268e49191fc2c9d3"
+  } ]
+}

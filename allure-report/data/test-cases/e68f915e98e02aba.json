@@ -1,0 +1,538 @@
+{
+  "uid" : "e68f915e98e02aba",
+  "name" : "Sleep Timer",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Settings.SettingsPageTest.TC_Settings",
+  "historyId" : "c968ec7a7e3bc7cac43e8171676f9f72",
+  "time" : {
+    "start" : 1551483063831,
+    "stop" : 1551483216065,
+    "duration" : 152234
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551482246390,
+      "stop" : 1551482266412,
+      "duration" : 20022
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551483038780,
+      "stop" : 1551483063688,
+      "duration" : 24908
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551483063831,
+        "stop" : 1551483068260,
+        "duration" : 4429
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551483068260,
+        "stop" : 1551483069315,
+        "duration" : 1055
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551483073163,
+        "stop" : 1551483101267,
+        "duration" : 28104
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_startLearning",
+      "time" : {
+        "start" : 1551483101267,
+        "stop" : 1551483108559,
+        "duration" : 7292
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Next",
+      "time" : {
+        "start" : 1551483166483,
+        "stop" : 1551483167689,
+        "duration" : 1206
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Next",
+      "time" : {
+        "start" : 1551483192383,
+        "stop" : 1551483193608,
+        "duration" : 1225
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_IUnderstand",
+      "time" : {
+        "start" : 1551483193608,
+        "stop" : 1551483194803,
+        "duration" : 1195
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_gotIt",
+      "time" : {
+        "start" : 1551483194803,
+        "stop" : 1551483196232,
+        "duration" : 1429
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Settings_Gear",
+      "time" : {
+        "start" : 1551483211865,
+        "stop" : 1551483213345,
+        "duration" : 1480
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_SleepTimer",
+      "time" : {
+        "start" : 1551483213345,
+        "stop" : 1551483214641,
+        "duration" : 1296
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "a0fbda6c597165d4",
+      "name" : "Page Screenshot",
+      "source" : "a0fbda6c597165d4.png",
+      "type" : "image/png",
+      "size" : 181794
+    }, {
+      "uid" : "32d1a0a7203c93d1",
+      "name" : "(0)",
+      "source" : "32d1a0a7203c93d1.txt",
+      "type" : "image/png",
+      "size" : 38
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "kill",
+    "time" : {
+      "start" : 1551483217115,
+      "stop" : 1551483237130,
+      "duration" : 20015
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551483216066,
+      "stop" : 1551483217113,
+      "duration" : 1047
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Settings.SettingsPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Settings.SettingsPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_Settings"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DrowsyHypnoQA"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Settings.SettingsPageTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28069@Divijs-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "22cb6d007b92e3cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551285497973,
+        "stop" : 1551285612711,
+        "duration" : 114738
+      }
+    }, {
+      "uid" : "4bca9c848e57e0e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551285213014,
+        "stop" : 1551285328967,
+        "duration" : 115953
+      }
+    }, {
+      "uid" : "c81357ce8028968f",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/disconnect_btn})",
+      "time" : {
+        "start" : 1551226152707,
+        "stop" : 1551226266017,
+        "duration" : 113310
+      }
+    }, {
+      "uid" : "52db3064adbdb01d",
+      "status" : "broken",
+      "statusDetails" : "io.appium.java_client.android.AndroidDriver cannot be cast to org.openqa.selenium.interactions.HasTouchScreen",
+      "time" : {
+        "start" : 1551225507008,
+        "stop" : 1551225619170,
+        "duration" : 112162
+      }
+    }, {
+      "uid" : "b6bd49e1db5fb2c8",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/disconnect_btn})",
+      "time" : {
+        "start" : 1551224511956,
+        "stop" : 1551224626211,
+        "duration" : 114255
+      }
+    }, {
+      "uid" : "c70f8fa1fec3073c",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1551224425262,
+        "stop" : 1551224444084,
+        "duration" : 18822
+      }
+    }, {
+      "uid" : "59cb13d0940c383d",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.AndroidUIAutomator: new UiScrollable(new UiSelector()).scrollIntoView(text(“Forget Sleepbuds”))})",
+      "time" : {
+        "start" : 1551224187310,
+        "stop" : 1551224301704,
+        "duration" : 114394
+      }
+    }, {
+      "uid" : "acc185acf72483ca",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 9c532f16-970a-498d-8700-f924c2d9c6ea",
+      "time" : {
+        "start" : 1551217904992,
+        "stop" : 1551218018725,
+        "duration" : 113733
+      }
+    }, {
+      "uid" : "c79f158f3bd91e9f",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: java.lang.SecurityException: Injecting to another application requires INJECT_EVENTS permission\n\tat android.os.Parcel.createException(Parcel.java:1942)\n\tat android.os.Parcel.readException(Parcel.java:1910)\n\tat android.os.Parcel.readException(Parcel.java:1860)\n\tat android.app.IUiAutomationConnection$Stub$Proxy.injectInputEvent(IUiAutomationConnection.java:292)\n\tat android.app.UiAutomation.injectInputEvent(UiAutomation.java:516)\n\tat android.support.test.uiautomator.UiAutomatorBridge.injectInputEvent(UiAutomatorBridge.java:86)\n\tat android.support.test.uiautomator.InteractionController.injectEventSync(InteractionController.java:688)\n\tat android.support.test.uiautomator.InteractionController.touchMove(InteractionController.java:368)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:489)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:458)\n\tat android.support.test.uiautomator.UiDevice.swipe(UiDevice.java:583)\n\tat io.appium.uiautomator2.handler.Swipe$1.run(Swipe.java:55)\n\tat android.app.UiAutomation.executeAndWaitForEvent(UiAutomation.java:595)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:39)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:87)\n\tat io.appium.uiautomator2.handler.Swipe.safeHandle(Swipe.java:52)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:250)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:241)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)\n\tat io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)\n\tat io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)\n\tat java.lang.Thread.run(Thread.java:764)\n\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 656d0f50-cfc0-442b-bd47-dbc022091f2c",
+      "time" : {
+        "start" : 1551217788730,
+        "stop" : 1551217831773,
+        "duration" : 43043
+      }
+    }, {
+      "uid" : "3d953a944edf7af3",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: fd98121f-d31f-4627-af4d-aad06e96bd1a",
+      "time" : {
+        "start" : 1551217541576,
+        "stop" : 1551217654614,
+        "duration" : 113038
+      }
+    }, {
+      "uid" : "34688e0d6c527e86",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: f8ef2839-245b-489f-b693-029861740a9b",
+      "time" : {
+        "start" : 1551216239744,
+        "stop" : 1551216354915,
+        "duration" : 115171
+      }
+    }, {
+      "uid" : "fd40f5b6b2382fdb",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 69cc977a-26a9-4310-89b8-65b5608a7d77",
+      "time" : {
+        "start" : 1551215930619,
+        "stop" : 1551216043264,
+        "duration" : 112645
+      }
+    }, {
+      "uid" : "692ff77878072730",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.AndroidUIAutomator: new UiScrollable(new UiSelector()).scrollIntoView(text(“Forget Sleepbuds”))})",
+      "time" : {
+        "start" : 1551215012707,
+        "stop" : 1551215125108,
+        "duration" : 112401
+      }
+    }, {
+      "uid" : "95e9339bf1ca1ab0",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/carousel_headphone_name})",
+      "time" : {
+        "start" : 1551214854312,
+        "stop" : 1551214873281,
+        "duration" : 18969
+      }
+    }, {
+      "uid" : "593721f157a31e16",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/disconnect_btn})",
+      "time" : {
+        "start" : 1551213644164,
+        "stop" : 1551213759473,
+        "duration" : 115309
+      }
+    }, {
+      "uid" : "5d2f7fd04df2a0f2",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: java.lang.SecurityException: Injecting to another application requires INJECT_EVENTS permission\n\tat android.os.Parcel.createException(Parcel.java:1942)\n\tat android.os.Parcel.readException(Parcel.java:1910)\n\tat android.os.Parcel.readException(Parcel.java:1860)\n\tat android.app.IUiAutomationConnection$Stub$Proxy.injectInputEvent(IUiAutomationConnection.java:292)\n\tat android.app.UiAutomation.injectInputEvent(UiAutomation.java:516)\n\tat android.support.test.uiautomator.UiAutomatorBridge.injectInputEvent(UiAutomatorBridge.java:86)\n\tat android.support.test.uiautomator.InteractionController.injectEventSync(InteractionController.java:688)\n\tat android.support.test.uiautomator.InteractionController.touchMove(InteractionController.java:368)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:489)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:458)\n\tat android.support.test.uiautomator.UiDevice.swipe(UiDevice.java:583)\n\tat io.appium.uiautomator2.handler.Swipe$1.run(Swipe.java:55)\n\tat android.app.UiAutomation.executeAndWaitForEvent(UiAutomation.java:595)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:39)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:87)\n\tat io.appium.uiautomator2.handler.Swipe.safeHandle(Swipe.java:52)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:250)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:241)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)\n\tat io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)\n\tat io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)\n\tat java.lang.Thread.run(Thread.java:764)\n\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 9e410364-8d51-4eac-8039-9f950a3313fa",
+      "time" : {
+        "start" : 1551213378635,
+        "stop" : 1551213416456,
+        "duration" : 37821
+      }
+    }, {
+      "uid" : "acdbad133d438c28",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: java.lang.SecurityException: Injecting to another application requires INJECT_EVENTS permission\n\tat android.os.Parcel.createException(Parcel.java:1942)\n\tat android.os.Parcel.readException(Parcel.java:1910)\n\tat android.os.Parcel.readException(Parcel.java:1860)\n\tat android.app.IUiAutomationConnection$Stub$Proxy.injectInputEvent(IUiAutomationConnection.java:292)\n\tat android.app.UiAutomation.injectInputEvent(UiAutomation.java:516)\n\tat android.support.test.uiautomator.UiAutomatorBridge.injectInputEvent(UiAutomatorBridge.java:86)\n\tat android.support.test.uiautomator.InteractionController.injectEventSync(InteractionController.java:688)\n\tat android.support.test.uiautomator.InteractionController.touchMove(InteractionController.java:368)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:489)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:458)\n\tat android.support.test.uiautomator.UiDevice.swipe(UiDevice.java:583)\n\tat io.appium.uiautomator2.handler.Swipe$1.run(Swipe.java:55)\n\tat android.app.UiAutomation.executeAndWaitForEvent(UiAutomation.java:595)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:39)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:87)\n\tat io.appium.uiautomator2.handler.Swipe.safeHandle(Swipe.java:52)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:250)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:241)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)\n\tat io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)\n\tat io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)\n\tat java.lang.Thread.run(Thread.java:764)\n\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: bb630712-2008-4de1-82ad-6dfb5fd7e562",
+      "time" : {
+        "start" : 1551213055413,
+        "stop" : 1551213315418,
+        "duration" : 260005
+      }
+    }, {
+      "uid" : "27b9dc20bbffb53b",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: java.lang.SecurityException: Injecting to another application requires INJECT_EVENTS permission\n\tat android.os.Parcel.createException(Parcel.java:1942)\n\tat android.os.Parcel.readException(Parcel.java:1910)\n\tat android.os.Parcel.readException(Parcel.java:1860)\n\tat android.app.IUiAutomationConnection$Stub$Proxy.injectInputEvent(IUiAutomationConnection.java:292)\n\tat android.app.UiAutomation.injectInputEvent(UiAutomation.java:516)\n\tat android.support.test.uiautomator.UiAutomatorBridge.injectInputEvent(UiAutomatorBridge.java:86)\n\tat android.support.test.uiautomator.InteractionController.injectEventSync(InteractionController.java:688)\n\tat android.support.test.uiautomator.InteractionController.touchMove(InteractionController.java:368)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:489)\n\tat android.support.test.uiautomator.InteractionController.swipe(InteractionController.java:458)\n\tat android.support.test.uiautomator.UiDevice.swipe(UiDevice.java:583)\n\tat io.appium.uiautomator2.handler.Swipe$1.run(Swipe.java:55)\n\tat android.app.UiAutomation.executeAndWaitForEvent(UiAutomation.java:595)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:39)\n\tat io.appium.uiautomator2.core.EventRegister.runAndRegisterScrollEvents(EventRegister.java:87)\n\tat io.appium.uiautomator2.handler.Swipe.safeHandle(Swipe.java:52)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:250)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:241)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)\n\tat io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)\n\tat io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)\n\tat java.lang.Thread.run(Thread.java:764)\n\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 7b06efc1-13bb-43d5-815b-4468016ce551",
+      "time" : {
+        "start" : 1551212927896,
+        "stop" : 1551212968262,
+        "duration" : 40366
+      }
+    }, {
+      "uid" : "e61211d18c0288e4",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/disconnect_btn})",
+      "time" : {
+        "start" : 1551212544281,
+        "stop" : 1551212657124,
+        "duration" : 112843
+      }
+    }, {
+      "uid" : "df06b46e2fb73369",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/disconnect_btn})",
+      "time" : {
+        "start" : 1551211364031,
+        "stop" : 1551211477102,
+        "duration" : 113071
+      }
+    }, {
+      "uid" : "56a344f1c3793299",
+      "status" : "broken",
+      "statusDetails" : "io.appium.uiautomator2.common.exceptions.InvalidCoordinatesException: Coordinate [x=1823.0, y=656.0] is outside of element rect: [0,0][1312,2279]\n\tat io.appium.uiautomator2.utils.PositionHelper.getAbsolutePosition(PositionHelper.java:71)\n\tat io.appium.uiautomator2.utils.PositionHelper.getDeviceAbsPos(PositionHelper.java:83)\n\tat io.appium.uiautomator2.handler.Swipe.safeHandle(Swipe.java:46)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:250)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:241)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)\n\tat io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)\n\tat io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)\n\tat java.lang.Thread.run(Thread.java:764)\n\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 6e543fd8-fd54-4216-bbcd-c21bd1d9daec",
+      "time" : {
+        "start" : 1551210341245,
+        "stop" : 1551210454172,
+        "duration" : 112927
+      }
+    }, {
+      "uid" : "526e322421daf120",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 7503f307-27e3-4108-827e-bdd8e03516fb",
+      "time" : {
+        "start" : 1551209467140,
+        "stop" : 1551209580220,
+        "duration" : 113080
+      }
+    }, {
+      "uid" : "cf813d4fae515829",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: d40b4213-0118-49e3-a4fb-1dc42fc439b8",
+      "time" : {
+        "start" : 1551208960269,
+        "stop" : 1551209072013,
+        "duration" : 111744
+      }
+    }, {
+      "uid" : "7a3f2f46a363e50d",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 36ba50f3-985b-4966-8535-3cafdd608e04",
+      "time" : {
+        "start" : 1551208742073,
+        "stop" : 1551208853026,
+        "duration" : 110953
+      }
+    }, {
+      "uid" : "d0a2b2e425acfe19",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.id: com.bose.corporation.hypno.qa:id/settings_btn})",
+      "time" : {
+        "start" : 1551208294697,
+        "stop" : 1551208396234,
+        "duration" : 101537
+      }
+    }, {
+      "uid" : "2b437f51655b8e1",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551208019070,
+        "stop" : 1551208034820,
+        "duration" : 15750
+      }
+    }, {
+      "uid" : "27c03d2ab771cbbb",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AndroidUIAutomator: text(\"Next\")}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1551207129396,
+        "stop" : 1551207216292,
+        "duration" : 86896
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e68f915e98e02aba.json",
+  "parameterValues" : [ ]
+}

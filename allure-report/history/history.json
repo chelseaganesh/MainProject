@@ -1,0 +1,1120 @@
+{
+  "b8a1af94bad737667c925bbb09f5320e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f4d67c5e99cd6c5",
+      "status" : "failed",
+      "statusDetails" : "expected [While you sleep, the app needs to stay awake to make sure your sleepbuds play masking sounds all night and your alarm wakes you up on time. Turn off battery optimizations for this app so you can rest easy.] but found [Pulling an all-nighter.]",
+      "time" : {
+        "start" : 1549404222477,
+        "stop" : 1549404232387,
+        "duration" : 9910
+      }
+    } ]
+  },
+  "fcf01714618eda09bd98ce6f32e7addd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e9c3cf009a646a3e",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970572,
+        "stop" : 1551390970572,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e6a103a5e49a21b05978c54bcfbc75df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d78051eed95da6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891758561,
+        "stop" : 1551891840016,
+        "duration" : 81455
+      }
+    } ]
+  },
+  "dd192fc98d13b9b109774e176393405c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0a4dc92584333dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551729602200,
+        "stop" : 1551729778529,
+        "duration" : 176329
+      }
+    } ]
+  },
+  "5a8c034edc367ad263634effc49c8161" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4bec440f1ce6cbbe",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970439,
+        "stop" : 1551390970441,
+        "duration" : 2
+      }
+    } ]
+  },
+  "34b516c57bbcca3603416981b7595108" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a577585faa11717",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891015935,
+        "stop" : 1551891081644,
+        "duration" : 65709
+      }
+    } ]
+  },
+  "8f089d7eeb39303a326f70732ecfc08" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e614bbc29e92c6a9",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: android.widget.TextView[@index='1']})",
+      "time" : {
+        "start" : 1549399010647,
+        "stop" : 1549399019856,
+        "duration" : 9209
+      }
+    } ]
+  },
+  "1b46111129edf4c3a68d19d030fbf72c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "776f8e4e8a8b1274",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970574,
+        "stop" : 1551390970574,
+        "duration" : 0
+      }
+    } ]
+  },
+  "815fd0adc49c77be6fadbace14ef3163" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51d95c45cd8ff6d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891935226,
+        "stop" : 1551892021369,
+        "duration" : 86143
+      }
+    } ]
+  },
+  "175f68ac88b56d7a27ca59dcdaa13636" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd8dbe7de3f7fdc0",
+      "status" : "broken",
+      "statusDetails" : "Can't locate an element by this strategy: By.chained({By.xpath: //*[@class='android.widget.TextView' and @index='12']})",
+      "time" : {
+        "start" : 1551892121132,
+        "stop" : 1551892209582,
+        "duration" : 88450
+      }
+    } ]
+  },
+  "d6e631694a05fde503b35eec6b34e073" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "807bf8241ede1b19",
+      "status" : "failed",
+      "statusDetails" : "expected [Use a mirror or a friend to see if your sleepbuds look like this.] but found [Use a mirror or ask a friend to see if your sleepbuds look like this.]",
+      "time" : {
+        "start" : 1551715194359,
+        "stop" : 1551715290987,
+        "duration" : 96628
+      }
+    } ]
+  },
+  "412b8d5adbabf27f9b55480d63e6bc60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2652bd609bb04221",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1550970030651,
+        "stop" : 1550970033921,
+        "duration" : 3270
+      }
+    } ]
+  },
+  "cbfa68fdf2fd63461c74abe605e8930a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cc9a6c481be85027",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891198720,
+        "stop" : 1551891254694,
+        "duration" : 55974
+      }
+    } ]
+  },
+  "6d48bb301702a7c93be0d6eda5ddd139" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "107a267f0dec4f3c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551481137612,
+        "stop" : 1551481137612,
+        "duration" : 0
+      }
+    } ]
+  },
+  "54aba8bb0c416330369d8bd9a136e0f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b95a97549643edbe",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970568,
+        "stop" : 1551390970568,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e4e56f1212d3e900717428d740137141" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ab2852068acb913",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970571,
+        "stop" : 1551390970571,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f9e941847c50a37e75bda3c1e04edaae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca856705fb679e49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891676783,
+        "stop" : 1551891753283,
+        "duration" : 76500
+      }
+    } ]
+  },
+  "471e66279777875acea4444666e0da3d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e394128a5cfc45f5",
+      "status" : "broken",
+      "statusDetails" : "A session is either terminated or not started\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: d6e0be91-a6ce-4116-9f4d-f4faf2cfd001",
+      "time" : {
+        "start" : 1551812961289,
+        "stop" : 1551812961294,
+        "duration" : 5
+      }
+    } ]
+  },
+  "f08358008e57427b95e565ec279dc6c8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c231746b045de942",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970561,
+        "stop" : 1551390970561,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c3791fbead2708f4aa357f484b8545bb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c9f420b09eae1da",
+      "status" : "failed",
+      "statusDetails" : "expected [While you sleep, the app needs to stay awake to make sure your sleepbuds play masking sounds all night and your alarm wakes you up on time. Turn off battery optimizations for this app so you can rest easy.] but found [Pulling an all-nighter.]",
+      "time" : {
+        "start" : 1549403012548,
+        "stop" : 1549403025533,
+        "duration" : 12985
+      }
+    } ]
+  },
+  "526ad304a59ecbf6e5902da5ba5b460c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2cf9d4b7a414e7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551890992309,
+        "stop" : 1551891010673,
+        "duration" : 18364
+      }
+    } ]
+  },
+  "d5a4a0b8721700e42bed019be4629acf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb1459443b2d3669",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551481137619,
+        "stop" : 1551481137619,
+        "duration" : 0
+      }
+    } ]
+  },
+  "89908a6e0471ad685682f2acba051eac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ab765d003abed90",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AccessibilityId: Add Sleepbuds}) (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:d029%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.ios.IOSDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., automationName: XCUITest, browserName: , bundleId: com.bose.corporation.HypnoQ..., databaseEnabled: false, deviceName: Divij Mothe Reddy's iphone, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, platform: MAC, platformName: iOS, platformVersion: 12.1.2, showIOSLog: true, takesScreenshot: true, udid: a4154dbae225f36cf960a12173c..., useNewWDA: true, wdaConnectionTimeout: 60000, wdaLaunchTimeout: 60000, webStorageEnabled: false, xcodeOrgId: QC9P7FKWH6, xcodeSigningId: iPhone Developer}\nSession ID: 503e83bd-7732-4d58-9f9d-862342363e6e",
+      "time" : {
+        "start" : 1551729803850,
+        "stop" : 1551729852061,
+        "duration" : 48211
+      }
+    } ]
+  },
+  "11baeb89360f5f739bb97ecbc1732490" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d718933ac5d69982",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970564,
+        "stop" : 1551390970564,
+        "duration" : 0
+      }
+    } ]
+  },
+  "de577593bcf741d3bc333a9dd879c786" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31483bab9bfb9f42",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970566,
+        "stop" : 1551390970566,
+        "duration" : 0
+      }
+    } ]
+  },
+  "10e508cce30a218604c6e7bb5783768c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f424126e673787a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551740886670,
+        "stop" : 1551741052102,
+        "duration" : 165432
+      }
+    } ]
+  },
+  "9a336e2b7df0f13f2871ebf9a0994689" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93b065a7ed3f54f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551814620461,
+        "stop" : 1551814792866,
+        "duration" : 172405
+      }
+    } ]
+  },
+  "591cf2e4c5ee15e2abbca95eb0f83fd7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b840d788c4fccd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891086771,
+        "stop" : 1551891138469,
+        "duration" : 51698
+      }
+    } ]
+  },
+  "c968ec7a7e3bc7cac43e8171676f9f72" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e68f915e98e02aba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551483063831,
+        "stop" : 1551483216065,
+        "duration" : 152234
+      }
+    } ]
+  },
+  "f9fd73296d91c5eb3528b1e470197284" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd743d4367d47cf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551728805496,
+        "stop" : 1551728996606,
+        "duration" : 191110
+      }
+    } ]
+  },
+  "55f9c06eb966acc4ff1c4e22806eda74" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af77654b9db71b1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891143985,
+        "stop" : 1551891193459,
+        "duration" : 49474
+      }
+    } ]
+  },
+  "327bd50426f93a7d4201ee20cd073fd5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6dedf7ada3a5a345",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551482493506,
+        "stop" : 1551482660417,
+        "duration" : 166911
+      }
+    } ]
+  },
+  "e9cb1b22a9453028ee460b4c2c1c373d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2eafe290243e538b",
+      "status" : "broken",
+      "statusDetails" : "Connection refused (Connection refused)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: driver.version: AndroidDriver",
+      "time" : {
+        "start" : 1551295347945,
+        "stop" : 1551295347945,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ebcc133a47b33c440fa5ab71b9c96570" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38f5c15764a43df3",
+      "status" : "failed",
+      "statusDetails" : "expected [Apps using Bluetooth Low Energy are now required to have location access enabled. We don't like it either, but don't worry: we only need BLE to make our magic work. We're not using your GPS, tracking you or saving any of your location data. ] but found [Apps using Bluetooth Low Energy are now required to have location access enabled. We don't like it either, but don't worry: we only need BLE to make our magic work. We're not using your GPS, tracking you or saving any of your location data.]",
+      "time" : {
+        "start" : 1549404187048,
+        "stop" : 1549404194693,
+        "duration" : 7645
+      }
+    } ]
+  },
+  "9f2dc235caf88c04f736ae8a51e35192" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c26e51d9390b5f2d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551481137603,
+        "stop" : 1551481137603,
+        "duration" : 0
+      }
+    } ]
+  },
+  "448cc32b19840a3442e21e80ebed2cb1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3bc314375420085e",
+      "status" : "broken",
+      "statusDetails" : "It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: driver.version: AndroidDriver",
+      "time" : {
+        "start" : 1551283611938,
+        "stop" : 1551283611939,
+        "duration" : 1
+      }
+    } ]
+  },
+  "e671298355437fedab095ca46d32d7ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6eec14e8be285709",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891259918,
+        "stop" : 1551891318080,
+        "duration" : 58162
+      }
+    } ]
+  },
+  "e0000a008eb1160afbf4326be55291b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cef2ebab0ef0d9ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551482707088,
+        "stop" : 1551482859456,
+        "duration" : 152368
+      }
+    } ]
+  },
+  "f14d1a0cf457f8ea3e786af79f320d7e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc3f565291a86fb4",
+      "status" : "failed",
+      "statusDetails" : "expected [Use a mirror or ask a friend to see if your sleepbuds look like this.] but found [Use a mirror or a friend to see if your sleepbuds look like this.]",
+      "time" : {
+        "start" : 1551891469752,
+        "stop" : 1551891538857,
+        "duration" : 69105
+      }
+    } ]
+  },
+  "7a4dc137fcd90891f8de294d2e29db11" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2dec200a562c5bf6",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command '/users/divijmothereddy/Library/Android/sdk/platform-tools/adb -P 5037 -s PM1LHMA7C2204945 shell am force-stop com.bose.corporation.hypno.qa' exited with code 2'; Stderr: ''; Code: '2'\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MacBook-Pro.local', ip: '2601:192:4d00:d25:0:0:0:39ec%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: /Users/divijmothereddy/Desk..., appPackage: com.bose.corporation.hypno.qa, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/divijmothereddy/Desk..., automationName: UiAutomator2, deviceName: PH-1, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Essential Products, deviceModel: PH-1, deviceName: PM1LHMA7C2204945, deviceScreenDensity: 480, deviceScreenSize: 1312x2560, deviceUDID: PM1LHMA7C2204945, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 144, takesScreenshot: true, viewportRect: {height: 2135, left: 0, top: 144, width: 1312}, warnings: {}, webStorageEnabled: false}\nSession ID: 384774a8-4676-49f3-b8da-4b3e219fd134",
+      "time" : {
+        "start" : 1551271101410,
+        "stop" : 1551271101410,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1875e8fb8c7b461efb06f725da93e474" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cebed49a185d0ff1",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970576,
+        "stop" : 1551390970576,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2fd98ba4d534d72a648978f4d5b2995d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48de73f3b34f46c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551482885543,
+        "stop" : 1551483037698,
+        "duration" : 152155
+      }
+    } ]
+  },
+  "b7a72aa8e4b065879ca38bc27add38f7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f11cc099364df780",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551391212374,
+        "stop" : 1551391362669,
+        "duration" : 150295
+      }
+    } ]
+  },
+  "1f3ec0ab3d650cfba119f3134c2dc92f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e933b2f8889a65a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551729400468,
+        "stop" : 1551729574602,
+        "duration" : 174134
+      }
+    } ]
+  },
+  "a0b09eff03f84859eb5ed1285db0d04a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7f1d71bda3658b5",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970579,
+        "stop" : 1551390970579,
+        "duration" : 0
+      }
+    } ]
+  },
+  "83c2f679a3216cf7fcf5fd9cc3ae9b57" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "355d1129a03f8fc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551890971814,
+        "stop" : 1551890987021,
+        "duration" : 15207
+      }
+    } ]
+  },
+  "1363e065a7707aafdf4f971cefdd7a3d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bec98a0a174245c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891323360,
+        "stop" : 1551891387814,
+        "duration" : 64454
+      }
+    } ]
+  },
+  "a4a60687fc32430bd0cabb1897a2d438" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8905cc925bdcc77c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551482296229,
+        "stop" : 1551482466239,
+        "duration" : 170010
+      }
+    } ]
+  },
+  "848b36289b0bb8dfc6448fa2deee51cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "412727836c7e1b6b",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1549387529941,
+        "stop" : 1549387529943,
+        "duration" : 2
+      }
+    } ]
+  },
+  "abbf54f133effa2148ba715fb6fefa6f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e144b613a533f91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891595830,
+        "stop" : 1551891671414,
+        "duration" : 75584
+      }
+    } ]
+  },
+  "4a71cccf5db1203422d6a2c3dbe18ae6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eca8c45e09acbf30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551729023347,
+        "stop" : 1551729186241,
+        "duration" : 162894
+      }
+    } ]
+  },
+  "62f7a02db1df54971a7d727c04107846" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e0b698b1a2fd19b7",
+      "status" : "broken",
+      "statusDetails" : "It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'Divijs-MBP.bose.com', ip: 'fe80:0:0:0:1820:8d55:58d4:64bd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_192'\nDriver info: driver.version: AndroidDriver",
+      "time" : {
+        "start" : 1551896694514,
+        "stop" : 1551896694517,
+        "duration" : 3
+      }
+    } ]
+  },
+  "848152afe8569e8f4c678d9b38e98bdc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50b10cbab51e1421",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551740395403,
+        "stop" : 1551740505075,
+        "duration" : 109672
+      }
+    } ]
+  },
+  "382ecd47b534b39fcbbad4a888b85db4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a83353a2712b828",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551891845329,
+        "stop" : 1551891930026,
+        "duration" : 84697
+      }
+    } ]
+  },
+  "9b212aa4336547a88aa14f957987264c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34e7df478c9ec75c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.AndroidUIAutomator: text(\"Add Sleepbuds\")}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1549390350013,
+        "stop" : 1549390388185,
+        "duration" : 38172
+      }
+    } ]
+  },
+  "9ab3b4331de94848dd38ab0c4a0ac69b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de0d977310df4594",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551481137607,
+        "stop" : 1551481137607,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a7ccd4ffe7a3e9872c2049d0ae170b95" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f598c766a2f17036",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551729212562,
+        "stop" : 1551729372815,
+        "duration" : 160253
+      }
+    } ]
+  },
+  "488dfd1e20cfb949da852692fb159495" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "262c57cc14ab7fe7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551390970580,
+        "stop" : 1551390970580,
+        "duration" : 0
+      }
+    } ]
+  }
+}

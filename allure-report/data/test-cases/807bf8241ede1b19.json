@@ -1,0 +1,327 @@
+{
+  "uid" : "807bf8241ede1b19",
+  "name" : "let's check a few things screen",
+  "fullName" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116912",
+  "historyId" : "d6e631694a05fde503b35eec6b34e073",
+  "time" : {
+    "start" : 1551715194359,
+    "stop" : 1551715290987,
+    "duration" : 96628
+  },
+  "description" : "let's check a few things screen",
+  "descriptionHtml" : "<p>let's check a few things screen</p>\n",
+  "status" : "failed",
+  "statusMessage" : "expected [Use a mirror or a friend to see if your sleepbuds look like this.] but found [Use a mirror or ask a friend to see if your sleepbuds look like this.]",
+  "statusTrace" : "java.lang.AssertionError: expected [Use a mirror or a friend to see if your sleepbuds look like this.] but found [Use a mirror or ask a friend to see if your sleepbuds look like this.]\n\tat org.testng.Assert.fail(Assert.java:96)\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\n\tat org.testng.Assert.assertEquals(Assert.java:118)\n\tat org.testng.Assert.assertEquals(Assert.java:453)\n\tat org.testng.Assert.assertEquals(Assert.java:463)\n\tat Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116912(OnboardingTest.java:364)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551715168993,
+      "stop" : 1551715194188,
+      "duration" : 25195
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "listen",
+    "time" : {
+      "start" : 1551714485374,
+      "stop" : 1551714505399,
+      "duration" : 20025
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "let's check a few things screen",
+    "status" : "failed",
+    "statusMessage" : "expected [Use a mirror or a friend to see if your sleepbuds look like this.] but found [Use a mirror or ask a friend to see if your sleepbuds look like this.]",
+    "statusTrace" : "java.lang.AssertionError: expected [Use a mirror or a friend to see if your sleepbuds look like this.] but found [Use a mirror or ask a friend to see if your sleepbuds look like this.]\n\tat org.testng.Assert.fail(Assert.java:96)\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\n\tat org.testng.Assert.assertEquals(Assert.java:118)\n\tat org.testng.Assert.assertEquals(Assert.java:453)\n\tat org.testng.Assert.assertEquals(Assert.java:463)\n\tat Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest.TC_OB_C116912(OnboardingTest.java:364)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:583)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\n\tat org.testng.TestRunner.run(TestRunner.java:505)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\n\tat org.testng.TestNG.run(TestNG.java:1017)\n\tat org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)\n\tat org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)\n",
+    "steps" : [ {
+      "name" : "tap_checkBox",
+      "time" : {
+        "start" : 1551715194359,
+        "stop" : 1551715198725,
+        "duration" : 4366
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_Agree",
+      "time" : {
+        "start" : 1551715198725,
+        "stop" : 1551715199780,
+        "duration" : 1055
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "connectSleepbuds",
+      "time" : {
+        "start" : 1551715203568,
+        "stop" : 1551715231721,
+        "duration" : 28153
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "tap_startLearning",
+      "time" : {
+        "start" : 1551715231721,
+        "stop" : 1551715239369,
+        "duration" : 7648
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "2cc37420b43f24d9",
+      "name" : "Page Screenshot",
+      "source" : "2cc37420b43f24d9.png",
+      "type" : "image/png",
+      "size" : 276845
+    }, {
+      "uid" : "f8e07f7f6c45cd36",
+      "name" : "(0)",
+      "source" : "f8e07f7f6c45cd36.txt",
+      "type" : "image/png",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551715290988,
+      "stop" : 1551715292034,
+      "duration" : 1046
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "kill",
+    "time" : {
+      "start" : 1551716179308,
+      "stop" : 1551716199324,
+      "duration" : 20016
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_OB_C116912"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DrowsyHypnoQA"
+  }, {
+    "name" : "subSuite",
+    "value" : "Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest"
+  }, {
+    "name" : "host",
+    "value" : "Divijs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "37021@Divijs-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Onboarding Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2600d0ecb6dcf8fa",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551669809693,
+        "stop" : 1551669809693,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5b08ecca7743bc33",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551669358534,
+        "stop" : 1551669358534,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c60202ed3dc0ee2c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551669194196,
+        "stop" : 1551669194196,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b141b7f63cab2a22",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551668733529,
+        "stop" : 1551668733529,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9b96bbc2f508e74d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551666003301,
+        "stop" : 1551666003301,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b3666d05d7da1ec2",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551392472802,
+        "stop" : 1551392472802,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7fb5949ca33416d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551358303823,
+        "stop" : 1551358303823,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "84867b7dbfc70c4d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551322906663,
+        "stop" : 1551322906663,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cb45f51534c938d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1551320169101,
+        "stop" : 1551320169101,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "29fb82284447eaeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551292915274,
+        "stop" : 1551292985446,
+        "duration" : 70172
+      }
+    }, {
+      "uid" : "6f6977b5f92f7c0d",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550704263077,
+        "stop" : 1550704278630,
+        "duration" : 15553
+      }
+    }, {
+      "uid" : "968d0a468e887a0c",
+      "status" : "skipped",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Located by By.chained({By.className: android.widget.CheckBox}) (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1550704237224,
+        "stop" : 1550704251492,
+        "duration" : 14268
+      }
+    }, {
+      "uid" : "c9d87158cf4babe5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550613572793,
+        "stop" : 1550613649123,
+        "duration" : 76330
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "807bf8241ede1b19.json",
+  "parameterValues" : [ ]
+}

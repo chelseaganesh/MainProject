@@ -1,0 +1,1 @@
+{"uuid":"edc3812c-ef53-49c9-99ba-34921dc2f0a4","name":"Com.Bose.Corporation.AndroidTestSuite.Onboarding.OnboardingTest","children":[],"befores":[{"name":"listen","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1552405911743,"stop":1552405931767}],"afters":[],"links":[],"start":1552405911713,"stop":1552405933363}
